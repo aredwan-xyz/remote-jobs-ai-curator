@@ -161,6 +161,10 @@
   footer a.link:hover { color: var(--accent-2); border-color: var(--accent-2); }
   footer .made { margin-top: 10px; font-size: 13px; }
 
+  .views { display:inline-flex; align-items:center; gap:7px; padding:7px 16px; border-radius:99px; background:var(--card); border:1px solid var(--border); color:var(--text-dim); font-size:13px; font-weight:600; margin-bottom:20px; }
+  .views b { color: var(--accent-2); font-family:'JetBrains Mono', monospace; }
+  .views .eye { font-size: 14px; }
+
   .skeleton { animation: shimmer 1.4s infinite; background: linear-gradient(90deg, var(--card) 25%, var(--card-hover) 50%, var(--card) 75%); background-size: 200% 100%; }
   @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
   .sk-card { height: 150px; border-radius: var(--radius); border: 1px solid var(--border); }
@@ -229,6 +233,7 @@
 
 <footer>
   <div class="wrap">
+    <div class="views" id="views" hidden><span class="eye">👁</span> <b id="views-n">—</b> page views</div>
     <div>
       <a class="link" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator" target="_blank" rel="noopener">GitHub</a> ·
       <a class="link" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator/blob/main/ARCHIVE.md" target="_blank" rel="noopener">Archive</a> ·
@@ -321,6 +326,15 @@
     });
 
   document.getElementById('q').addEventListener('input', e => { query = e.target.value; render(); });
+
+  // ── Visitor counter (no-auth, privacy-friendly) ──
+  (function () {
+    const box = document.getElementById('views'), n = document.getElementById('views-n');
+    fetch('https://api.counterapi.dev/v1/aredwan-xyz-remote-jobs-ai-curator/pageviews/up')
+      .then(r => r.json())
+      .then(d => { if (d && typeof d.count === 'number') { n.textContent = d.count.toLocaleString(); box.hidden = false; } })
+      .catch(() => {});
+  })();
 </script>
 </body>
 </html>
