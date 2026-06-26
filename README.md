@@ -36,7 +36,7 @@
 
 <!-- LATEST-START -->
 <!-- auto-updated: 2026-06-26 -->
-**Latest listings: [Friday, 2026-06-26](jobs/2026-06-26.md)** - 209 AI remote jobs
+**Latest listings: [Friday, 2026-06-26](jobs/2026-06-26.md)** - 210 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
@@ -51,7 +51,7 @@
 | [Chief Technology Officer](https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633) | Access Softek | RemoteOK |
 | [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
 
-_🔄 Updated daily · [View all 209 jobs →](jobs/2026-06-26.md)_
+_🔄 Updated daily · [View all 210 jobs →](jobs/2026-06-26.md)_
 <!-- LATEST-END -->
 
 ---
