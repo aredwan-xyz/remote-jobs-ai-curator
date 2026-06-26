@@ -30,7 +30,7 @@ Thanks for helping! Here's how to add a new job source.
 ## Guidelines
 
 - Must be a **remote-first** or **remote-friendly** job board
-- Handle errors gracefully — boards go down
+- Handle errors gracefully - boards go down
 - Deduplicate using `(title, company)` keys
 - Keep descriptions short
 

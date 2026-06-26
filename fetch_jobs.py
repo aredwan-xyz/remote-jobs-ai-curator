@@ -27,7 +27,9 @@ def clean(text):
     text = re.sub(r"&amp;", "&", text)
     text = re.sub(r"&lt;", "<", text)
     text = re.sub(r"&gt;", ">", text)
+    text = re.sub(r"&mdash;|&ndash;|&#8211;|&#8212;|&#8213;", "-", text)
     text = re.sub(r"&#\d+;", "", text)
+    text = re.sub(r"[‒-―]", "-", text)  # figure/en/em/horizontal-bar dashes -> hyphen
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
@@ -175,7 +177,7 @@ def update_readme_preview(jobs, today, day):
     with open("README.md") as f:
         content = f.read()
     lines = [f"<!-- auto-updated: {today} -->"]
-    lines.append(f"**Latest listings: [{day}, {today}](jobs/{today}.md)** — {len(jobs)} AI remote jobs")
+    lines.append(f"**Latest listings: [{day}, {today}](jobs/{today}.md)** - {len(jobs)} AI remote jobs")
     lines.append("")
     lines.append("| Role | Company | Source |")
     lines.append("|------|---------|--------|")
@@ -244,10 +246,10 @@ def main():
         sources.setdefault(j["source"], []).append(j)
 
     lines = []
-    lines.append(f"# 🤖 Remote AI Jobs — {day}, {today}")
+    lines.append(f"# 🤖 Remote AI Jobs - {day}, {today}")
     lines.append(f"_Curated daily by **[Abid Redwan](https://aredwan.com)** · **[CodeBeez](https://codebeez.xyz)** · {time}_")
     lines.append("")
-    lines.append(f"> **{len(jobs)} remote AI opportunities** scraped from {len(sources)} sources — updated every morning.")
+    lines.append(f"> **{len(jobs)} remote AI opportunities** scraped from {len(sources)} sources - updated every morning.")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -274,8 +276,8 @@ def main():
             title    = (j["title"][:60] + "…") if len(j["title"]) > 60 else j["title"]
             company  = j["company"][:35]
             location = j["location"][:25]
-            salary   = j["salary"] or "—"
-            tags     = j["tags"][:30] if j["tags"] else "—"
+            salary   = j["salary"] or "-"
+            tags     = j["tags"][:30] if j["tags"] else "-"
             lines.append(f"| [{title}]({j['link']}) | {company} | {location} | {salary} | {tags} |")
         lines.append("")
 

@@ -2,7 +2,7 @@
 
 # 💼 Remote AI Jobs Curator
 
-### Every remote AI job on the internet — automatically tracked, curated & committed daily.
+### Every remote AI job on the internet - automatically tracked, curated & committed daily.
 
 [![GitHub stars](https://img.shields.io/github/stars/aredwan-xyz/remote-jobs-ai-curator?style=social)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/aredwan-xyz/remote-jobs-ai-curator?style=social)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/network/members)
@@ -21,14 +21,14 @@
 
 ## 💡 What is this?
 
-**Remote AI Jobs Curator** automatically scrapes **4 major remote job boards** every morning, filters for AI/ML roles, and commits a clean markdown snapshot — so you never miss an opportunity.
+**Remote AI Jobs Curator** automatically scrapes **4 major remote job boards** every morning, filters for AI/ML roles, and commits a clean markdown snapshot - so you never miss an opportunity.
 
-- ✅ **Zero manual effort** — GitHub Actions does everything
-- ✅ **AI-filtered** — only ML, Data Science, LLM, NLP, Computer Vision & AI Engineering roles
+- ✅ **Zero manual effort** - GitHub Actions does everything
+- ✅ **AI-filtered** - only ML, Data Science, LLM, NLP, Computer Vision & AI Engineering roles
 - ✅ **Salary info** included where available
-- ✅ **Full archive** — track market trends over time
-- ✅ **Free forever** — no API keys, no subscriptions
-- ✅ **Forkable** — customize for any job category in minutes
+- ✅ **Full archive** - track market trends over time
+- ✅ **Free forever** - no API keys, no subscriptions
+- ✅ **Forkable** - customize for any job category in minutes
 
 ---
 
@@ -36,7 +36,7 @@
 
 <!-- LATEST-START -->
 <!-- auto-updated: 2026-06-26 -->
-**Latest listings: [Friday, 2026-06-26](jobs/2026-06-26.md)** — 209 AI remote jobs
+**Latest listings: [Friday, 2026-06-26](jobs/2026-06-26.md)** - 209 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
@@ -60,8 +60,8 @@ _🔄 Updated daily · [View all 209 jobs →](jobs/2026-06-26.md)_
 
 | Job Board | Focus |
 |-----------|-------|
-| 🌍 **RemoteOK** | Top remote tech jobs — AI/ML/Data tags |
-| 💼 **Remotive** | Curated remote roles — Software, Data & DevOps |
+| 🌍 **RemoteOK** | Top remote tech jobs - AI/ML/Data tags |
+| 💼 **Remotive** | Curated remote roles - Software, Data & DevOps |
 | 🏠 **WeWorkRemotely** | Hand-picked remote programming & data science jobs |
 | 🤖 **Jobicy** | Remote AI, ML & Data Science roles |
 
@@ -105,7 +105,7 @@ Every day at 7:00 AM UTC
 # 2. Clone your fork
 git clone https://github.com/YOUR_USERNAME/remote-jobs-ai-curator.git
 
-# 3. That's it — GitHub Actions runs automatically every morning!
+# 3. That's it - GitHub Actions runs automatically every morning!
 # Trigger manually: Actions → Daily Remote AI Jobs → Run workflow
 ```
 
