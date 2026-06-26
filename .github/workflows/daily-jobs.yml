@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "Abid Redwan"
           git config user.email "21248864+aredwan-xyz@users.noreply.github.com"
-          git add jobs/ README.md ARCHIVE.md
+          git add jobs/ README.md ARCHIVE.md docs/
           git diff --cached --quiet || git commit -m "daily jobs: $(date +%Y-%m-%d)"
           git push

@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Remote AI Jobs Curator — Every remote AI job, curated daily</title>
+<meta name="description" content="Every remote AI job on the internet — automatically tracked, curated & committed daily. ML, Data Science, LLM, NLP, Computer Vision & AI Engineering roles from 4 job boards." />
+<meta name="author" content="Abid Redwan" />
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Remote AI Jobs Curator" />
+<meta property="og:description" content="Every remote AI job on the internet — curated & updated daily. ML, Data Science, LLM, NLP, CV & AI Engineering roles." />
+<meta property="og:url" content="https://aredwan-xyz.github.io/remote-jobs-ai-curator/" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💼</text></svg>" />
+<style>
+  :root {
+    --bg: #07080d;
+    --bg-elev: #0f1118;
+    --card: #12141d;
+    --card-hover: #171a25;
+    --border: #20242f;
+    --border-glow: #2c3142;
+    --text: #e9ecf3;
+    --text-dim: #9aa3b5;
+    --text-faint: #5f6878;
+    --accent: #7c6cff;
+    --accent-2: #29d2c5;
+    --accent-warm: #ff8a5c;
+    --grad: linear-gradient(135deg, #7c6cff 0%, #29d2c5 100%);
+    --radius: 16px;
+    --shadow: 0 10px 40px -12px rgba(0,0,0,.7);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+  /* ambient gradient glows */
+  body::before {
+    content: '';
+    position: fixed;
+    top: -30vh; left: 50%;
+    transform: translateX(-50%);
+    width: 120vw; height: 80vh;
+    background: radial-gradient(ellipse at center, rgba(124,108,255,.18), transparent 60%),
+                radial-gradient(ellipse at 30% 40%, rgba(41,210,197,.10), transparent 55%);
+    pointer-events: none;
+    z-index: 0;
+    filter: blur(10px);
+  }
+  a { color: inherit; text-decoration: none; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 24px; position: relative; z-index: 1; }
+
+  /* ── Header ─────────────────────────────── */
+  header {
+    position: sticky; top: 0; z-index: 50;
+    backdrop-filter: blur(14px);
+    background: rgba(7,8,13,.72);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav { display: flex; align-items: center; justify-content: space-between; height: 64px; }
+  .brand { display: flex; align-items: center; gap: 10px; font-weight: 800; font-size: 16px; letter-spacing: -.02em; }
+  .brand .logo {
+    width: 32px; height: 32px; border-radius: 9px;
+    background: var(--grad);
+    display: grid; place-items: center; font-size: 17px;
+    box-shadow: 0 4px 14px -2px rgba(124,108,255,.5);
+  }
+  .brand .tag { color: var(--text-faint); font-weight: 500; font-size: 12px; padding: 2px 8px; border: 1px solid var(--border); border-radius: 99px; }
+  .nav-actions { display: flex; align-items: center; gap: 12px; }
+  .btn {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 9px 16px; border-radius: 10px; font-weight: 600; font-size: 14px;
+    border: 1px solid var(--border-glow); color: var(--text);
+    transition: .18s ease; cursor: pointer; background: var(--card);
+  }
+  .btn:hover { background: var(--card-hover); border-color: var(--accent); transform: translateY(-1px); }
+  .btn-primary { background: var(--grad); border: none; color: #07080d; font-weight: 700; box-shadow: 0 6px 20px -6px rgba(124,108,255,.6); }
+  .btn-primary:hover { filter: brightness(1.08); transform: translateY(-1px); }
+
+  /* ── Hero ───────────────────────────────── */
+  .hero { padding: 88px 0 56px; text-align: center; }
+  .pill {
+    display: inline-flex; align-items: center; gap: 8px;
+    padding: 6px 14px; border-radius: 99px; font-size: 13px; font-weight: 600;
+    background: rgba(124,108,255,.1); border: 1px solid rgba(124,108,255,.28); color: #c7c0ff;
+    margin-bottom: 26px;
+  }
+  .pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--accent-2); box-shadow: 0 0 0 0 rgba(41,210,197,.6); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%{box-shadow:0 0 0 0 rgba(41,210,197,.55)} 70%{box-shadow:0 0 0 9px rgba(41,210,197,0)} 100%{box-shadow:0 0 0 0 rgba(41,210,197,0)} }
+  h1 { font-size: clamp(38px, 6vw, 68px); line-height: 1.04; letter-spacing: -.035em; font-weight: 900; margin-bottom: 22px; }
+  h1 .grad { background: var(--grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .sub { font-size: clamp(16px, 2.1vw, 20px); color: var(--text-dim); max-width: 640px; margin: 0 auto 36px; }
+  .hero-cta { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+
+  /* ── Stats ──────────────────────────────── */
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 56px 0 12px; }
+  .stat {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 22px 20px; text-align: center; position: relative; overflow: hidden;
+  }
+  .stat::after { content:''; position:absolute; inset:0 0 auto 0; height:2px; background: var(--grad); opacity:.7; }
+  .stat .num { font-size: 34px; font-weight: 800; letter-spacing: -.03em; font-family: 'JetBrains Mono', monospace; }
+  .stat .lbl { color: var(--text-faint); font-size: 13px; font-weight: 500; margin-top: 4px; }
+
+  /* ── Controls ───────────────────────────── */
+  .controls { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin: 48px 0 24px; }
+  .search { position: relative; flex: 1; min-width: 240px; }
+  .search input {
+    width: 100%; padding: 13px 16px 13px 44px; border-radius: 12px;
+    background: var(--card); border: 1px solid var(--border); color: var(--text);
+    font-size: 15px; font-family: inherit; transition: .18s;
+  }
+  .search input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(124,108,255,.15); }
+  .search svg { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: var(--text-faint); }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; }
+  .chip {
+    padding: 9px 15px; border-radius: 99px; font-size: 13px; font-weight: 600; cursor: pointer;
+    background: var(--card); border: 1px solid var(--border); color: var(--text-dim); transition: .16s;
+  }
+  .chip:hover { border-color: var(--border-glow); color: var(--text); }
+  .chip.active { background: var(--grad); color: #07080d; border-color: transparent; }
+  .chip .c { opacity: .7; font-weight: 700; margin-left: 5px; }
+
+  /* ── Job grid ───────────────────────────── */
+  .meta-row { display:flex; justify-content: space-between; align-items: baseline; margin-bottom: 18px; flex-wrap: wrap; gap: 8px; }
+  .meta-row .count { font-size: 14px; color: var(--text-dim); }
+  .meta-row .count b { color: var(--text); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap: 16px; }
+  .job {
+    background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 22px; transition: .18s ease; position: relative; display: flex; flex-direction: column; gap: 12px;
+  }
+  .job:hover { background: var(--card-hover); border-color: var(--border-glow); transform: translateY(-3px); box-shadow: var(--shadow); }
+  .job-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+  .job h3 { font-size: 16.5px; font-weight: 700; letter-spacing: -.01em; line-height: 1.3; }
+  .job h3 a:hover { color: var(--accent-2); }
+  .src-tag { flex-shrink: 0; font-size: 11px; font-weight: 700; padding: 4px 9px; border-radius: 7px; letter-spacing: .02em; text-transform: uppercase; }
+  .company { color: var(--text-dim); font-size: 14px; font-weight: 600; }
+  .job-foot { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 4px; }
+  .badge { font-size: 12.5px; font-weight: 500; color: var(--text-faint); display: inline-flex; align-items: center; gap: 5px; }
+  .salary { color: var(--accent-2) !important; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+  .apply { margin-left: auto; font-size: 13px; font-weight: 700; color: var(--accent); display: inline-flex; align-items: center; gap: 4px; transition: .15s; }
+  .job:hover .apply { gap: 7px; }
+
+  .empty { text-align: center; padding: 80px 20px; color: var(--text-faint); }
+  .empty .big { font-size: 44px; margin-bottom: 12px; }
+
+  /* ── Footer ─────────────────────────────── */
+  footer { margin-top: 80px; border-top: 1px solid var(--border); padding: 40px 0 56px; text-align: center; color: var(--text-faint); font-size: 14px; }
+  footer a.link { color: var(--text-dim); font-weight: 600; border-bottom: 1px solid transparent; transition: .15s; }
+  footer a.link:hover { color: var(--accent-2); border-color: var(--accent-2); }
+  footer .made { margin-top: 10px; font-size: 13px; }
+
+  .skeleton { animation: shimmer 1.4s infinite; background: linear-gradient(90deg, var(--card) 25%, var(--card-hover) 50%, var(--card) 75%); background-size: 200% 100%; }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+  .sk-card { height: 150px; border-radius: var(--radius); border: 1px solid var(--border); }
+
+  @media (max-width: 720px) {
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .hero { padding: 60px 0 40px; }
+    .nav .tag { display: none; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a href="#" class="brand">
+      <span class="logo">💼</span>
+      <span>Remote AI Jobs</span>
+      <span class="tag">curated daily</span>
+    </a>
+    <div class="nav-actions">
+      <a class="btn" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator" target="_blank" rel="noopener">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+        Star
+      </a>
+      <a class="btn btn-primary" href="#jobs">Browse jobs</a>
+    </div>
+  </div>
+</header>
+
+<section class="hero wrap">
+  <div class="pill"><span class="pulse"></span> <span id="hero-status">Auto-updated every morning · 7:00 AM UTC</span></div>
+  <h1>Every remote <span class="grad">AI job</span><br />on the internet.</h1>
+  <p class="sub">Automatically tracked, curated &amp; committed daily. ML, Data Science, LLM, NLP, Computer Vision &amp; AI Engineering roles — scraped from 4 job boards, filtered, and served fresh.</p>
+  <div class="hero-cta">
+    <a class="btn btn-primary" href="#jobs">Explore listings ↓</a>
+    <a class="btn" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator" target="_blank" rel="noopener">⭐ Star on GitHub</a>
+  </div>
+
+  <div class="stats" id="stats">
+    <div class="stat"><div class="num" id="s-total">—</div><div class="lbl">Open roles</div></div>
+    <div class="stat"><div class="num" id="s-sources">—</div><div class="lbl">Job boards</div></div>
+    <div class="stat"><div class="num">7am</div><div class="lbl">Daily UTC refresh</div></div>
+    <div class="stat"><div class="num">$0</div><div class="lbl">Forever free</div></div>
+  </div>
+</section>
+
+<main class="wrap" id="jobs">
+  <div class="controls">
+    <div class="search">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      <input id="q" type="text" placeholder="Search role, company, or keyword…" autocomplete="off" />
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+
+  <div class="meta-row">
+    <div class="count" id="count">Loading…</div>
+    <div class="count" id="updated"></div>
+  </div>
+
+  <div class="grid" id="grid">
+    <div class="sk-card skeleton"></div><div class="sk-card skeleton"></div><div class="sk-card skeleton"></div>
+    <div class="sk-card skeleton"></div><div class="sk-card skeleton"></div><div class="sk-card skeleton"></div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="link" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator" target="_blank" rel="noopener">GitHub</a> ·
+      <a class="link" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator/blob/main/ARCHIVE.md" target="_blank" rel="noopener">Archive</a> ·
+      <a class="link" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator/fork" target="_blank" rel="noopener">Fork your own</a>
+    </div>
+    <div class="made">Made with ☕ by <a class="link" href="https://aredwan.com" target="_blank" rel="noopener">Abid Redwan</a> · A <a class="link" href="https://codebeez.xyz" target="_blank" rel="noopener">CodeBeez</a> project</div>
+  </div>
+</footer>
+
+<script>
+  const SRC_COLORS = {
+    'RemoteOK':       { bg: 'rgba(124,108,255,.15)', fg: '#b3aaff' },
+    'Remotive':       { bg: 'rgba(41,210,197,.15)',  fg: '#5fe0d5' },
+    'WeWorkRemotely': { bg: 'rgba(255,138,92,.15)',  fg: '#ffac84' },
+    'Jobicy':         { bg: 'rgba(245,200,92,.15)',  fg: '#f3d27a' },
+  };
+  const DEFAULT_COLOR = { bg: 'rgba(154,163,181,.14)', fg: '#b8c0d0' };
+
+  let ALL = [], activeSrc = 'All', query = '';
+
+  const esc = s => (s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  function render() {
+    const grid = document.getElementById('grid');
+    const q = query.trim().toLowerCase();
+    const list = ALL.filter(j => {
+      if (activeSrc !== 'All' && j.source !== activeSrc) return false;
+      if (!q) return true;
+      return (j.title + ' ' + j.company + ' ' + (j.tags||'') + ' ' + (j.location||'')).toLowerCase().includes(q);
+    });
+
+    document.getElementById('count').innerHTML = '<b>' + list.length + '</b> ' + (list.length === 1 ? 'role' : 'roles') + (activeSrc !== 'All' ? ' on ' + esc(activeSrc) : '') + (q ? ' matching “' + esc(query.trim()) + '”' : '');
+
+    if (!list.length) {
+      grid.style.display = 'block';
+      grid.innerHTML = '<div class="empty"><div class="big">🔍</div>No roles match your filters.<br/>Try a different keyword or source.</div>';
+      return;
+    }
+    grid.style.display = 'grid';
+    grid.innerHTML = list.map(j => {
+      const c = SRC_COLORS[j.source] || DEFAULT_COLOR;
+      const salary = j.salary ? '<span class="badge salary">💰 ' + esc(j.salary) + '</span>' : '';
+      const loc = j.location && j.location !== 'Worldwide' ? '📍 ' + esc(j.location) : '🌍 Worldwide';
+      return `<article class="job">
+        <div class="job-top">
+          <h3><a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
+          <span class="src-tag" style="background:${c.bg};color:${c.fg}">${esc(j.source)}</span>
+        </div>
+        <div class="company">${esc(j.company)}</div>
+        <div class="job-foot">
+          <span class="badge">${loc}</span>
+          ${salary}
+          <a class="apply" href="${esc(j.link)}" target="_blank" rel="noopener">Apply →</a>
+        </div>
+      </article>`;
+    }).join('');
+  }
+
+  function buildChips(sources) {
+    const chips = document.getElementById('chips');
+    const total = ALL.length;
+    const entries = [['All', total], ...Object.entries(sources)];
+    chips.innerHTML = entries.map(([name, n]) =>
+      `<button class="chip${name === 'All' ? ' active' : ''}" data-src="${esc(name)}">${esc(name)}<span class="c">${n}</span></button>`
+    ).join('');
+    chips.querySelectorAll('.chip').forEach(el => el.addEventListener('click', () => {
+      activeSrc = el.dataset.src;
+      chips.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      el.classList.add('active');
+      render();
+    }));
+  }
+
+  fetch('jobs.json?_=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      ALL = data.jobs || [];
+      document.getElementById('s-total').textContent = data.total ?? ALL.length;
+      document.getElementById('s-sources').textContent = Object.keys(data.sources || {}).length || '4';
+      if (data.updated_human) {
+        document.getElementById('updated').textContent = 'Updated ' + data.updated_human;
+        document.getElementById('hero-status').textContent = 'Last updated ' + data.updated_human;
+      }
+      buildChips(data.sources || {});
+      render();
+    })
+    .catch(() => {
+      document.getElementById('grid').innerHTML = '<div class="empty"><div class="big">⚠️</div>Couldn’t load listings right now.<br/>Check the <a class="link" style="color:var(--accent)" href="https://github.com/aredwan-xyz/remote-jobs-ai-curator/tree/main/jobs">latest snapshot on GitHub</a>.</div>';
+      document.getElementById('count').textContent = '';
+    });
+
+  document.getElementById('q').addEventListener('input', e => { query = e.target.value; render(); });
+</script>
+</body>
+</html>

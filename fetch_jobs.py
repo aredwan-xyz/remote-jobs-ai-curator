@@ -196,6 +196,20 @@ def update_readme_preview(jobs, today, day):
         f.write(updated)
     print(f"  ✓ README preview updated")
 
+def write_site_data(jobs, today, day, time, sources):
+    """Emit structured data for the GitHub Pages site (docs/jobs.json)."""
+    os.makedirs("docs", exist_ok=True)
+    data = {
+        "updated": today,
+        "updated_human": f"{day}, {today} · {time}",
+        "total": len(jobs),
+        "sources": {src: len(s) for src, s in sorted(sources.items(), key=lambda x: -len(x[1]))},
+        "jobs": jobs,
+    }
+    with open("docs/jobs.json", "w") as f:
+        json.dump(data, f, ensure_ascii=False)
+    print(f"  ✓ docs/jobs.json written ({len(jobs)} jobs)")
+
 def build_archive():
     files = sorted([f for f in os.listdir("jobs") if f.endswith(".md")], reverse=True)
     lines = ["# 📚 Archive\n", "| Date | Jobs |", "|------|------|"]
@@ -283,6 +297,7 @@ def main():
 
     update_readme_preview(jobs, today, day)
     build_archive()
+    write_site_data(jobs, today, day, time, sources)
 
 if __name__ == "__main__":
     main()
