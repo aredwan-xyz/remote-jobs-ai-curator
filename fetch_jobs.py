@@ -14,9 +14,13 @@ AI_KEYWORDS = [
     "openai", "anthropic", "langchain", "rag", "fine-tuning", "mlops",
 ]
 
+_AI_PATTERN = re.compile(
+    r"(?<![a-z])(" + "|".join(re.escape(k) for k in AI_KEYWORDS) + r")(?![a-z])"
+)
+
 def is_ai_job(title, desc=""):
     text = (title + " " + desc).lower()
-    return any(k in text for k in AI_KEYWORDS)
+    return bool(_AI_PATTERN.search(text))
 
 def clean(text):
     text = re.sub(r"<[^>]+>", "", text or "")
@@ -49,8 +53,9 @@ def fetch_remoteok():
                 link     = job.get("url", f"https://remoteok.com/l/{jid}")
                 salary   = job.get("salary_min") or job.get("salary_max")
                 salary_str = f"${salary:,}+" if salary else ""
+                all_tags = " ".join(job.get("tags", []))
                 tags_str = ", ".join(job.get("tags", [])[:5])
-                if title and company:
+                if title and company and is_ai_job(title, all_tags):
                     jobs.append({
                         "title": title, "company": company,
                         "location": location or "Worldwide",
@@ -125,32 +130,32 @@ def fetch_wwr():
             print(f"  ✗ WeWorkRemotely: {e}")
     return jobs
 
-# ── Source 4: AI Jobs (RSS) ───────────────────────────────────────────────────
-def fetch_aijobs():
+# ── Source 4: Jobicy ──────────────────────────────────────────────────────────
+def fetch_jobicy():
     jobs = []
     try:
-        url = "https://aijobs.net/feed/"
+        url = "https://jobicy.com/api/v2/remote-jobs?count=100"
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=12) as r:
-            root = ET.fromstring(r.read())
-        for item in root.findall(".//item")[:20]:
-            title   = clean(item.findtext("title", ""))
-            link    = item.findtext("link", "")
-            desc    = clean(item.findtext("description", ""))
-            company = ""
-            # try to extract company from description
-            m = re.search(r"at\s+([A-Z][^\n.]{2,40})", desc)
-            if m:
-                company = m.group(1).strip()
-            if title:
+            data = json.load(r)
+        for job in data.get("jobs", []):
+            title    = clean(job.get("jobTitle", ""))
+            company  = clean(job.get("companyName", ""))
+            desc     = clean(job.get("jobExcerpt", ""))
+            link     = job.get("url", "")
+            geo      = clean(job.get("jobGeo", "Worldwide"))
+            smin     = job.get("annualSalaryMin")
+            salary   = f"${int(smin):,}+" if smin else ""
+            industry = clean(", ".join(job.get("jobIndustry", []) or []))
+            if is_ai_job(title, desc + " " + industry) and title and company:
                 jobs.append({
-                    "title": title, "company": company or "See listing",
-                    "location": "Worldwide",
-                    "link": link, "salary": "",
-                    "tags": "", "source": "AIJobs.net",
+                    "title": title, "company": company,
+                    "location": geo or "Worldwide",
+                    "link": link, "salary": salary,
+                    "tags": industry[:30], "source": "Jobicy",
                 })
     except Exception as e:
-        print(f"  ✗ AIJobs.net: {e}")
+        print(f"  ✗ Jobicy: {e}")
     return jobs
 
 # ── Dedup + rank ──────────────────────────────────────────────────────────────
@@ -213,8 +218,8 @@ def main():
     jobs += fetch_remotive()
     print("Fetching: WeWorkRemotely")
     jobs += fetch_wwr()
-    print("Fetching: AIJobs.net")
-    jobs += fetch_aijobs()
+    print("Fetching: Jobicy")
+    jobs += fetch_jobicy()
 
     jobs = dedup(jobs)
     print(f"  ✓ {len(jobs)} unique AI remote jobs found")
@@ -267,7 +272,7 @@ def main():
     lines.append("⭐ **Star this repo** · 👁 **Watch** for daily notifications · 🍴 **Fork** to customize your own tracker")
     lines.append("")
     lines.append("---")
-    lines.append(f"_{len(jobs)} jobs · {len(sources)} sources · Next update tomorrow 8:00 AM UTC_")
+    lines.append(f"_{len(jobs)} jobs · {len(sources)} sources · Next update tomorrow 7:00 AM UTC_")
     lines.append("")
     lines.append("_Made with ☕ by **[Abid Redwan](https://aredwan.com)** · A **[CodeBeez](https://codebeez.xyz)** Project_")
 

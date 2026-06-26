@@ -33,23 +33,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-04-27 -->
-**Latest listings: [Monday, 2026-04-27](jobs/2026-04-27.md)** — 142 AI remote jobs
+<!-- auto-updated: 2026-06-26 -->
+**Latest listings: [Friday, 2026-06-26](jobs/2026-06-26.md)** — 209 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
-| [HQ AI Enablement Lead](https://remoteOK.com/remote-jobs/remote-hq-ai-enablement-lead-everfield-1131322) | Everfield | RemoteOK |
-| [Medical Director for Health Plan](https://remoteOK.com/remote-jobs/remote-medical-director-for-health-plan-evry-health-1131321) | Evry Health | RemoteOK |
-| [Implementation Specialist](https://remoteOK.com/remote-jobs/remote-implementation-specialist-submittable-1131318) | Submittable | RemoteOK |
-| [Trainer EMEA](https://remoteOK.com/remote-jobs/remote-trainer-emea-360learning-1131306) | 360Learning | RemoteOK |
-| [TEST JOB](https://remoteOK.com/remote-jobs/remote-test-job-fleetio-1131302) | Fleetio | RemoteOK |
-| [Mid Senior AI Video Artist](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-video-artist-everai-1131288) | EverAI | RemoteOK |
-| [Search Engine Evaluation Specialist Freelance AI Traine…](https://remoteOK.com/remote-jobs/remote-search-engine-evaluation-specialist-freelance-ai-trainer-project-invisible-agency-1131259) | Invisible Agency | RemoteOK |
-| [Senior Account Manager](https://remoteOK.com/remote-jobs/remote-senior-account-manager-keyloop-1131249) | Keyloop | RemoteOK |
-| [Crypto Trader](https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131243) | Fox GLobal Assets | RemoteOK |
-| [Account Executive Collections Credit Card](https://remoteOK.com/remote-jobs/remote-account-executive-collections-credit-card-bhg-financial-1131237) | BHG Financial | RemoteOK |
+| [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | RemoteOK |
+| [Head of Public Understanding](https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914) | NOPE | RemoteOK |
+| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-gameplay-galaxy-1132512) | Gameplay Galaxy | RemoteOK |
+| [Client Delivery Manager](https://remoteOK.com/remote-jobs/remote-client-delivery-manager-storyteller-1132435) | Storyteller | RemoteOK |
+| [Data Annotator](https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152) | CuraSenseAI | RemoteOK |
+| [2D Artist](https://remoteOK.com/remote-jobs/remote-2d-artist-rubyplay-1131918) | RubyPlay | RemoteOK |
+| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | RemoteOK |
+| [Janitor Engineer](https://remoteOK.com/remote-jobs/remote-janitor-engineer-neutrality-1131716) | Neutrality | RemoteOK |
+| [Chief Technology Officer](https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633) | Access Softek | RemoteOK |
+| [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
 
-_🔄 Updated daily · [View all 142 jobs →](jobs/2026-04-27.md)_
+_🔄 Updated daily · [View all 209 jobs →](jobs/2026-06-26.md)_
 <!-- LATEST-END -->
 
 ---
@@ -61,7 +61,7 @@ _🔄 Updated daily · [View all 142 jobs →](jobs/2026-04-27.md)_
 | 🌍 **RemoteOK** | Top remote tech jobs — AI/ML/Data tags |
 | 💼 **Remotive** | Curated remote roles — Software, Data & DevOps |
 | 🏠 **WeWorkRemotely** | Hand-picked remote programming & data science jobs |
-| 🤖 **AIJobs.net** | Dedicated AI-only job board |
+| 🤖 **Jobicy** | Remote AI, ML & Data Science roles |
 
 ---
 
@@ -85,7 +85,7 @@ Every day at 7:00 AM UTC
          ├── 🌍 scrapes RemoteOK (AI/ML/Data tags)
          ├── 💼 scrapes Remotive (filters by AI keywords)
          ├── 🏠 scrapes WeWorkRemotely RSS
-         ├── 🤖 scrapes AIJobs.net RSS
+         ├── 🤖 scrapes Jobicy API
          ├── 🧹 deduplicates all listings
          ├── 📝 writes jobs/YYYY-MM-DD.md
          ├── 🔄 updates README with latest listings
