@@ -12,6 +12,17 @@
 <meta property="og:description" content="Every remote AI job on the internet - curated & updated daily. ML, Data Science, LLM, NLP, CV & AI Engineering roles." />
 <meta property="og:url" content="https://aredwan-xyz.github.io/remote-jobs-ai-curator/" />
 <meta name="twitter:card" content="summary_large_image" />
+<link rel="canonical" href="https://aredwan-xyz.github.io/remote-jobs-ai-curator/" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Remote AI Jobs Curator",
+  "url": "https://aredwan-xyz.github.io/remote-jobs-ai-curator/",
+  "description": "Every remote AI job on the internet, automatically tracked, curated and committed daily. ML, Data Science, LLM, NLP, Computer Vision and AI Engineering roles.",
+  "author": { "@type": "Person", "name": "Abid Redwan", "url": "https://aredwan.com" }
+}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet" />
@@ -145,6 +156,7 @@
   .job h3 { font-size: 16.5px; font-weight: 700; letter-spacing: -.01em; line-height: 1.3; }
   .job h3 a:hover { color: var(--accent-2); }
   .src-tag { flex-shrink: 0; font-size: 11px; font-weight: 700; padding: 4px 9px; border-radius: 7px; letter-spacing: .02em; text-transform: uppercase; }
+  .new-badge { display:inline-block; font-size:10px; font-weight:800; letter-spacing:.05em; color:#07080d; background:var(--accent-2); padding:2px 6px; border-radius:5px; margin-right:7px; vertical-align:middle; box-shadow:0 0 12px -2px rgba(41,210,197,.6); }
   .company { color: var(--text-dim); font-size: 14px; font-weight: 600; }
   .job-foot { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-top: auto; padding-top: 4px; }
   .badge { font-size: 12.5px; font-weight: 500; color: var(--text-faint); display: inline-flex; align-items: center; gap: 5px; }
@@ -277,9 +289,10 @@
       const c = SRC_COLORS[j.source] || DEFAULT_COLOR;
       const salary = j.salary ? '<span class="badge salary">💰 ' + esc(j.salary) + '</span>' : '';
       const loc = j.location && j.location !== 'Worldwide' ? '📍 ' + esc(j.location) : '🌍 Worldwide';
+      const newBadge = j.is_new ? '<span class="new-badge">NEW</span>' : '';
       return `<article class="job">
         <div class="job-top">
-          <h3><a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
+          <h3>${newBadge}<a href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
           <span class="src-tag" style="background:${c.bg};color:${c.fg}">${esc(j.source)}</span>
         </div>
         <div class="company">${esc(j.company)}</div>
@@ -314,7 +327,8 @@
       document.getElementById('s-total').textContent = data.total ?? ALL.length;
       document.getElementById('s-sources').textContent = Object.keys(data.sources || {}).length || '4';
       if (data.updated_human) {
-        document.getElementById('updated').textContent = 'Updated ' + data.updated_human;
+        const fresh = data.new_count ? ' · 🆕 ' + data.new_count + ' new' : '';
+        document.getElementById('updated').textContent = 'Updated ' + data.updated_human + fresh;
         document.getElementById('hero-status').textContent = 'Last updated ' + data.updated_human;
       }
       buildChips(data.sources || {});

@@ -1,10 +1,16 @@
 import urllib.request
 import urllib.parse
+import urllib.error
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
 import json
 import os
 import re
+import time
+
+SITE_URL = "https://aredwan-xyz.github.io/remote-jobs-ai-curator/"
+UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 AI_KEYWORDS = [
     "ai", "artificial intelligence", "machine learning", "ml", "deep learning",
@@ -33,6 +39,35 @@ def clean(text):
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
+def http_get(url, timeout=12, retries=4, backoff=1.5):
+    """Fetch a URL with retries, exponential backoff and manual redirect-following.
+    Returns raw bytes; raises the last error if every attempt fails. This is what
+    keeps a transient 301/429/5xx (e.g. WeWorkRemotely's flaky redirect) from
+    silently dropping a whole source for the day."""
+    last = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={
+                "User-Agent": UA,
+                "Accept": "application/json, application/rss+xml, application/xml;q=0.9, */*;q=0.8",
+            })
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except urllib.error.HTTPError as e:
+            last = e
+            loc = e.headers.get("Location") if e.headers else None
+            if e.code in (301, 302, 303, 307, 308):
+                if loc:
+                    url = urllib.parse.urljoin(url, loc)  # follow redirect, then retry
+                # else: bare redirect (anti-bot soft-block) — just retry the same url
+            elif e.code not in (408, 425, 429, 500, 502, 503, 504):
+                break                                     # non-transient (404 etc.) — stop early
+        except Exception as e:
+            last = e
+        if attempt < retries - 1:
+            time.sleep(backoff * (attempt + 1))
+    raise last if last else RuntimeError(f"request failed: {url}")
+
 # ── Source 1: RemoteOK ────────────────────────────────────────────────────────
 def fetch_remoteok():
     jobs = []
@@ -41,9 +76,7 @@ def fetch_remoteok():
     for tag in tags:
         try:
             url = f"https://remoteok.com/api?tag={tag}"
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=12) as r:
-                data = json.load(r)
+            data = json.loads(http_get(url))
             for job in data[1:]:  # first item is legal notice
                 jid = job.get("id", "")
                 if jid in seen:
@@ -76,9 +109,7 @@ def fetch_remotive():
     for cat in categories:
         try:
             url = f"https://remotive.com/api/remote-jobs?category={cat}&limit=50"
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=12) as r:
-                data = json.load(r)
+            data = json.loads(http_get(url))
             for job in data.get("jobs", []):
                 jid = job.get("id")
                 if jid in seen:
@@ -110,9 +141,7 @@ def fetch_wwr():
     ]
     for url in feeds:
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=12) as r:
-                root = ET.fromstring(r.read())
+            root = ET.fromstring(http_get(url))
             for item in root.findall(".//item"):
                 title_raw = clean(item.findtext("title", ""))
                 parts     = title_raw.split(":", 1)
@@ -137,9 +166,7 @@ def fetch_jobicy():
     jobs = []
     try:
         url = "https://jobicy.com/api/v2/remote-jobs?count=100"
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=12) as r:
-            data = json.load(r)
+        data = json.loads(http_get(url))
         for job in data.get("jobs", []):
             title    = clean(job.get("jobTitle", ""))
             company  = clean(job.get("companyName", ""))
@@ -171,6 +198,58 @@ def dedup(jobs):
             out.append(j)
     return out
 
+def load_previous_links():
+    """Job links from the last published snapshot, used to flag NEW listings."""
+    try:
+        with open("docs/jobs.json") as f:
+            prev = json.load(f)
+        return {j.get("link") for j in prev.get("jobs", []) if j.get("link")}
+    except Exception:
+        return set()
+
+def write_health_report(raw, sources, total, new_count, today):
+    """Print a per-source health summary and (in CI) write it to the job summary."""
+    up = [n for n in raw if raw[n]]
+    down = [n for n in raw if not raw[n]]
+    rows = []
+    for name in raw:
+        fetched, kept = len(raw[name]), len(sources.get(name, []))
+        rows.append(f"| {name} | {'✅' if raw[name] else '⚠️ DOWN'} | {fetched} | {kept} |")
+    summary = "\n".join([
+        f"## 🤖 Remote AI Jobs — {today}",
+        "",
+        f"**{total} unique jobs** · **{new_count} new** · **{len(up)}/{len(raw)} sources up**",
+        "",
+        "| Source | Status | Fetched | After dedup |",
+        "|--------|--------|---------|-------------|",
+        *rows,
+    ])
+    gh = os.environ.get("GITHUB_STEP_SUMMARY")
+    if gh:
+        try:
+            with open(gh, "a") as f:
+                f.write(summary + "\n")
+        except Exception:
+            pass
+    if down:
+        print(f"  ⚠️  SOURCES DOWN: {', '.join(down)}")
+    print(f"  ✓ {len(up)}/{len(raw)} sources healthy")
+
+def write_seo(today):
+    """robots.txt + sitemap.xml for crawlability (lastmod refreshed daily)."""
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/robots.txt", "w") as f:
+        f.write(f"User-agent: *\nAllow: /\n\nSitemap: {SITE_URL}sitemap.xml\n")
+    with open("docs/sitemap.xml", "w") as f:
+        f.write(
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            f"  <url><loc>{SITE_URL}</loc><lastmod>{today}</lastmod>"
+            "<changefreq>daily</changefreq><priority>1.0</priority></url>\n"
+            "</urlset>\n"
+        )
+    print("  ✓ robots.txt + sitemap.xml written")
+
 def update_readme_preview(jobs, today, day):
     if not os.path.exists("README.md"):
         return
@@ -198,13 +277,14 @@ def update_readme_preview(jobs, today, day):
         f.write(updated)
     print(f"  ✓ README preview updated")
 
-def write_site_data(jobs, today, day, time, sources):
+def write_site_data(jobs, today, day, stamp, sources, new_count):
     """Emit structured data for the GitHub Pages site (docs/jobs.json)."""
     os.makedirs("docs", exist_ok=True)
     data = {
         "updated": today,
-        "updated_human": f"{day}, {today} · {time}",
+        "updated_human": f"{day}, {today} · {stamp}",
         "total": len(jobs),
+        "new_count": new_count,
         "sources": {src: len(s) for src, s in sorted(sources.items(), key=lambda x: -len(x[1]))},
         "jobs": jobs,
     }
@@ -223,22 +303,28 @@ def build_archive():
     print(f"  ✓ ARCHIVE.md updated ({len(files)} snapshots)")
 
 def main():
-    now   = datetime.utcnow()
+    now   = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
     day   = now.strftime("%A")
-    time  = now.strftime("%H:%M UTC")
+    stamp = now.strftime("%H:%M UTC")
 
-    print("Fetching: RemoteOK")
-    jobs = fetch_remoteok()
-    print("Fetching: Remotive")
-    jobs += fetch_remotive()
-    print("Fetching: WeWorkRemotely")
-    jobs += fetch_wwr()
-    print("Fetching: Jobicy")
-    jobs += fetch_jobicy()
+    raw = {}
+    for name, fn in [("RemoteOK", fetch_remoteok), ("Remotive", fetch_remotive),
+                     ("WeWorkRemotely", fetch_wwr), ("Jobicy", fetch_jobicy)]:
+        print(f"Fetching: {name}")
+        raw[name] = fn()
 
+    jobs = [j for lst in raw.values() for j in lst]
     jobs = dedup(jobs)
     print(f"  ✓ {len(jobs)} unique AI remote jobs found")
+
+    # flag listings not present in the previous snapshot
+    prev_links = load_previous_links()
+    new_count  = 0
+    for j in jobs:
+        j["is_new"] = bool(prev_links) and j["link"] not in prev_links
+        new_count += j["is_new"]
+    print(f"  ✓ {new_count} new since last run")
 
     # group by source
     sources = {}
@@ -247,9 +333,12 @@ def main():
 
     lines = []
     lines.append(f"# 🤖 Remote AI Jobs - {day}, {today}")
-    lines.append(f"_Curated daily by **[Abid Redwan](https://aredwan.com)** · **[CodeBeez](https://codebeez.xyz)** · {time}_")
+    lines.append(f"_Curated daily by **[Abid Redwan](https://aredwan.com)** · **[CodeBeez](https://codebeez.xyz)** · {stamp}_")
     lines.append("")
     lines.append(f"> **{len(jobs)} remote AI opportunities** scraped from {len(sources)} sources - updated every morning.")
+    if new_count:
+        lines.append(">")
+        lines.append(f"> 🆕 **{new_count} new** since the last update.")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -274,11 +363,12 @@ def main():
         lines.append("|------|---------|----------|--------|------|")
         for j in sjobs:
             title    = (j["title"][:60] + "…") if len(j["title"]) > 60 else j["title"]
+            flag     = "🆕 " if j.get("is_new") else ""
             company  = j["company"][:35]
             location = j["location"][:25]
             salary   = j["salary"] or "-"
             tags     = j["tags"][:30] if j["tags"] else "-"
-            lines.append(f"| [{title}]({j['link']}) | {company} | {location} | {salary} | {tags} |")
+            lines.append(f"| {flag}[{title}]({j['link']}) | {company} | {location} | {salary} | {tags} |")
         lines.append("")
 
     lines.append("---")
@@ -299,7 +389,9 @@ def main():
 
     update_readme_preview(jobs, today, day)
     build_archive()
-    write_site_data(jobs, today, day, time, sources)
+    write_site_data(jobs, today, day, stamp, sources, new_count)
+    write_seo(today)
+    write_health_report(raw, sources, len(jobs), new_count, today)
 
 if __name__ == "__main__":
     main()
