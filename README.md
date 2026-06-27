@@ -35,23 +35,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-06-26 -->
-**Latest listings: [Friday, 2026-06-26](jobs/2026-06-26.md)** - 210 AI remote jobs
+<!-- auto-updated: 2026-06-27 -->
+**Latest listings: [Saturday, 2026-06-27](jobs/2026-06-27.md)** - 219 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
 | [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | RemoteOK |
 | [Head of Public Understanding](https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914) | NOPE | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-gameplay-galaxy-1132512) | Gameplay Galaxy | RemoteOK |
-| [Client Delivery Manager](https://remoteOK.com/remote-jobs/remote-client-delivery-manager-storyteller-1132435) | Storyteller | RemoteOK |
 | [Data Annotator](https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152) | CuraSenseAI | RemoteOK |
 | [2D Artist](https://remoteOK.com/remote-jobs/remote-2d-artist-rubyplay-1131918) | RubyPlay | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | RemoteOK |
 | [Janitor Engineer](https://remoteOK.com/remote-jobs/remote-janitor-engineer-neutrality-1131716) | Neutrality | RemoteOK |
 | [Chief Technology Officer](https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633) | Access Softek | RemoteOK |
 | [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
+| [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
 
-_🔄 Updated daily · [View all 210 jobs →](jobs/2026-06-26.md)_
+_🔄 Updated daily · [View all 219 jobs →](jobs/2026-06-27.md)_
 <!-- LATEST-END -->
 
 ---
