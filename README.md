@@ -35,14 +35,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-06-28 -->
-**Latest listings: [Sunday, 2026-06-28](jobs/2026-06-28.md)** - 213 AI remote jobs
+<!-- auto-updated: 2026-06-29 -->
+**Latest listings: [Monday, 2026-06-29](jobs/2026-06-29.md)** - 213 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
 | [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | RemoteOK |
 | [Head of Public Understanding](https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914) | NOPE | RemoteOK |
-| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-gameplay-galaxy-1132512) | Gameplay Galaxy | RemoteOK |
 | [Data Annotator](https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152) | CuraSenseAI | RemoteOK |
 | [2D Artist](https://remoteOK.com/remote-jobs/remote-2d-artist-rubyplay-1131918) | RubyPlay | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | RemoteOK |
@@ -50,8 +49,9 @@
 | [Chief Technology Officer](https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633) | Access Softek | RemoteOK |
 | [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
+| [Managing Director of Client Services](https://remoteOK.com/remote-jobs/remote-managing-director-of-client-services-contact-government-services-llc-1131623) | Contact Government Services, L | RemoteOK |
 
-_🔄 Updated daily · [View all 213 jobs →](jobs/2026-06-28.md)_
+_🔄 Updated daily · [View all 213 jobs →](jobs/2026-06-29.md)_
 <!-- LATEST-END -->
 
 ---
