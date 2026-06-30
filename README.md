@@ -35,8 +35,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-06-29 -->
-**Latest listings: [Monday, 2026-06-29](jobs/2026-06-29.md)** - 213 AI remote jobs
+<!-- auto-updated: 2026-06-30 -->
+**Latest listings: [Tuesday, 2026-06-30](jobs/2026-06-30.md)** - 212 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
@@ -51,7 +51,7 @@
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
 | [Managing Director of Client Services](https://remoteOK.com/remote-jobs/remote-managing-director-of-client-services-contact-government-services-llc-1131623) | Contact Government Services, L | RemoteOK |
 
-_🔄 Updated daily · [View all 213 jobs →](jobs/2026-06-29.md)_
+_🔄 Updated daily · [View all 212 jobs →](jobs/2026-06-30.md)_
 <!-- LATEST-END -->
 
 ---
