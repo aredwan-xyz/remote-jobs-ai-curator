@@ -35,11 +35,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-03 -->
-**Latest listings: [Friday, 2026-07-03](jobs/2026-07-03.md)** - 201 AI remote jobs
+<!-- auto-updated: 2026-07-04 -->
+**Latest listings: [Saturday, 2026-07-04](jobs/2026-07-04.md)** - 203 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
+| [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | RemoteOK |
 | [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | RemoteOK |
 | [Head of Public Understanding](https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914) | NOPE | RemoteOK |
 | [Data Annotator](https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152) | CuraSenseAI | RemoteOK |
@@ -49,9 +50,8 @@
 | [Chief Technology Officer](https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633) | Access Softek | RemoteOK |
 | [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
-| [Managing Director of Client Services](https://remoteOK.com/remote-jobs/remote-managing-director-of-client-services-contact-government-services-llc-1131623) | Contact Government Services, L | RemoteOK |
 
-_🔄 Updated daily · [View all 201 jobs →](jobs/2026-07-03.md)_
+_🔄 Updated daily · [View all 203 jobs →](jobs/2026-07-04.md)_
 <!-- LATEST-END -->
 
 ---
