@@ -35,8 +35,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-13 -->
-**Latest listings: [Monday, 2026-07-13](jobs/2026-07-13.md)** - 216 AI remote jobs
+<!-- auto-updated: 2026-07-14 -->
+**Latest listings: [Tuesday, 2026-07-14](jobs/2026-07-14.md)** - 215 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
@@ -51,7 +51,7 @@
 | [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
 
-_🔄 Updated daily · [View all 216 jobs →](jobs/2026-07-13.md)_
+_🔄 Updated daily · [View all 215 jobs →](jobs/2026-07-14.md)_
 <!-- LATEST-END -->
 
 ---
