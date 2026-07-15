@@ -20,13 +20,74 @@ AI_KEYWORDS = [
     "openai", "anthropic", "langchain", "rag", "fine-tuning", "mlops",
 ]
 
-_AI_PATTERN = re.compile(
-    r"(?<![a-z])(" + "|".join(re.escape(k) for k in AI_KEYWORDS) + r")(?![a-z])"
-)
+# Role categories, checked in order — first match wins. AI/ML is checked
+# first since it's the most specific signal; "Engineering" is a broad
+# catch-all checked last so it doesn't swallow more specific roles.
+# A title matching none of these is not a tech role and is dropped.
+ROLE_CATEGORIES = [
+    ("AI / ML", AI_KEYWORDS),
+    ("Mobile", [
+        "ios", "android", "react native", "flutter", "mobile engineer",
+        "mobile developer", "swift developer", "kotlin developer",
+    ]),
+    ("DevOps / Infra", [
+        "devops", "sre", "site reliability", "platform engineer",
+        "infrastructure engineer", "cloud engineer", "kubernetes",
+        "systems engineer", "release engineer",
+    ]),
+    ("Security", [
+        "security engineer", "infosec", "appsec", "penetration test",
+        "security architect", "cybersecurity", "security analyst",
+    ]),
+    ("QA / Testing", [
+        "qa engineer", "test engineer", "sdet", "quality assurance",
+        "automation engineer", "qa analyst",
+    ]),
+    ("Data", [
+        "data engineer", "data analyst", "analytics engineer",
+        "bi analyst", "business intelligence", "data engineering",
+    ]),
+    ("Frontend", [
+        "frontend", "front-end", "front end", "react developer",
+        "vue developer", "angular developer", "ui engineer",
+    ]),
+    ("Backend", [
+        "backend", "back-end", "back end", "api engineer",
+        "server engineer", "node.js", "golang developer", "django developer",
+        "ruby on rails",
+    ]),
+    ("Full-Stack", ["full stack", "full-stack", "fullstack"]),
+    ("Product & Design", [
+        "product manager", "product designer", "ux designer", "ui designer",
+        "ux researcher", "product owner", "graphic designer",
+    ]),
+    # Multi-word phrases only — bare "engineer"/"developer" match plenty of
+    # non-tech titles (Janitor Engineer, Sales Engineer, Curriculum
+    # Developer), so those single words are deliberately excluded here.
+    ("Engineering", [
+        "software engineer", "software developer", "web developer",
+        "systems programmer", "application developer", "solutions engineer",
+    ]),
+]
 
-def is_ai_job(title, desc=""):
-    text = (title + " " + desc).lower()
-    return bool(_AI_PATTERN.search(text))
+
+def _build_pattern(keywords):
+    return re.compile(
+        r"(?<![a-z0-9])(" + "|".join(re.escape(k) for k in keywords) + r")(?![a-z0-9])"
+    )
+
+
+_ROLE_PATTERNS = [(name, _build_pattern(kws)) for name, kws in ROLE_CATEGORIES]
+
+
+def classify_role(title):
+    """Return the best-matching tech role category for a job title, or None
+    if it isn't a tech role at all (e.g. Sales, HR, Accounting, Caretaker)."""
+    t = (title or "").lower()
+    for name, pattern in _ROLE_PATTERNS:
+        if pattern.search(t):
+            return name
+    return None
 
 def clean(text):
     text = re.sub(r"<[^>]+>", "", text or "")
@@ -71,11 +132,17 @@ def http_get(url, timeout=12, retries=4, backoff=1.5):
 # ── Source 1: RemoteOK ────────────────────────────────────────────────────────
 def fetch_remoteok():
     jobs = []
-    tags = ["ai", "machine-learning", "nlp", "deep-learning", "data-science"]
+    # The general (no-tag) endpoint gives the broadest recent pool; the
+    # tag queries add depth per category. RemoteOK's own tags are NOT
+    # trusted as a filter signal (see classify_role) — every job here is
+    # re-classified from its title regardless of which query found it.
+    endpoints = [None, "ai", "machine-learning", "data-science", "dev",
+                 "engineer", "backend", "frontend", "devops", "security",
+                 "design", "product"]
     seen = set()
-    for tag in tags:
+    for tag in endpoints:
         try:
-            url = f"https://remoteok.com/api?tag={tag}"
+            url = "https://remoteok.com/api" + (f"?tag={tag}" if tag else "")
             data = json.loads(http_get(url))
             for job in data[1:]:  # first item is legal notice
                 jid = job.get("id", "")
@@ -89,17 +156,13 @@ def fetch_remoteok():
                 salary   = job.get("salary_min") or job.get("salary_max")
                 salary_str = f"${salary:,}+" if salary else ""
                 tags_str = ", ".join(job.get("tags", [])[:5])
-                # Title only. RemoteOK's tag-query endpoint is loose (querying
-                # tag=ai can return jobs it hasn't tagged "ai" at all, e.g. a
-                # plain Customer Support role) and job description text picks
-                # up unrelated "AI" mentions from company boilerplate — both
-                # let non-AI roles through. The title is the reliable signal.
-                if title and company and is_ai_job(title):
+                role = classify_role(title)
+                if title and company and role:
                     jobs.append({
                         "title": title, "company": company,
                         "location": location or "Worldwide",
                         "link": link, "salary": salary_str,
-                        "tags": tags_str, "source": "RemoteOK",
+                        "tags": tags_str, "source": "RemoteOK", "role": role,
                     })
         except Exception as e:
             print(f"  ✗ RemoteOK ({tag}): {e}")
@@ -108,11 +171,12 @@ def fetch_remoteok():
 # ── Source 2: Remotive ────────────────────────────────────────────────────────
 def fetch_remotive():
     jobs = []
-    categories = ["software-dev", "data", "devops-sysadmin"]
+    categories = ["software-dev", "data", "devops-sysadmin", "design",
+                  "product", "qa", "all-others"]
     seen = set()
     for cat in categories:
         try:
-            url = f"https://remotive.com/api/remote-jobs?category={cat}&limit=50"
+            url = f"https://remotive.com/api/remote-jobs?category={cat}&limit=100"
             data = json.loads(http_get(url))
             for job in data.get("jobs", []):
                 jid = job.get("id")
@@ -124,14 +188,13 @@ def fetch_remotive():
                 link    = job.get("url", "")
                 salary  = clean(job.get("salary", ""))
                 tags    = ", ".join(job.get("tags", [])[:5])
-                # Title only — description text is too noisy (company "about
-                # us" boilerplate mentions AI even for non-AI roles).
-                if is_ai_job(title) and title and company:
+                role = classify_role(title)
+                if role and title and company:
                     jobs.append({
                         "title": title, "company": company,
                         "location": "Worldwide",
                         "link": link, "salary": salary,
-                        "tags": tags, "source": "Remotive",
+                        "tags": tags, "source": "Remotive", "role": role,
                     })
         except Exception as e:
             print(f"  ✗ Remotive ({cat}): {e}")
@@ -143,6 +206,12 @@ def fetch_wwr():
     feeds = [
         "https://weworkremotely.com/categories/remote-programming-jobs.rss",
         "https://weworkremotely.com/categories/remote-data-science-jobs.rss",
+        "https://weworkremotely.com/categories/remote-design-jobs.rss",
+        "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss",
+        "https://weworkremotely.com/categories/remote-product-jobs.rss",
+        "https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss",
+        "https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss",
+        "https://weworkremotely.com/categories/remote-front-end-programming-jobs.rss",
     ]
     for url in feeds:
         try:
@@ -154,12 +223,13 @@ def fetch_wwr():
                 title     = parts[1].strip() if len(parts) > 1 else title_raw
                 link      = item.findtext("link", "")
                 region    = clean(item.findtext("{https://weworkremotely.com}region", "Worldwide"))
-                if is_ai_job(title):
+                role = classify_role(title)
+                if role:
                     jobs.append({
                         "title": title, "company": company,
                         "location": region or "Worldwide",
                         "link": link, "salary": "",
-                        "tags": "", "source": "WeWorkRemotely",
+                        "tags": "", "source": "WeWorkRemotely", "role": role,
                     })
         except Exception as e:
             print(f"  ✗ WeWorkRemotely: {e}")
@@ -169,7 +239,8 @@ def fetch_wwr():
 def fetch_jobicy():
     jobs = []
     try:
-        url = "https://jobicy.com/api/v2/remote-jobs?count=100"
+        # Already unfiltered by category — one broad pull, classify by title.
+        url = "https://jobicy.com/api/v2/remote-jobs?count=200"
         data = json.loads(http_get(url))
         for job in data.get("jobs", []):
             title    = clean(job.get("jobTitle", ""))
@@ -179,12 +250,13 @@ def fetch_jobicy():
             smin     = job.get("annualSalaryMin")
             salary   = f"${int(smin):,}+" if smin else ""
             industry = clean(", ".join(job.get("jobIndustry", []) or []))
-            if is_ai_job(title) and title and company:
+            role = classify_role(title)
+            if role and title and company:
                 jobs.append({
                     "title": title, "company": company,
                     "location": geo or "Worldwide",
                     "link": link, "salary": salary,
-                    "tags": industry[:30], "source": "Jobicy",
+                    "tags": industry[:30], "source": "Jobicy", "role": role,
                 })
     except Exception as e:
         print(f"  ✗ Jobicy: {e}")
@@ -259,14 +331,14 @@ def update_readme_preview(jobs, today, day):
     with open("README.md") as f:
         content = f.read()
     lines = [f"<!-- auto-updated: {today} -->"]
-    lines.append(f"**Latest listings: [{day}, {today}](jobs/{today}.md)** - {len(jobs)} AI remote jobs")
+    lines.append(f"**Latest listings: [{day}, {today}](jobs/{today}.md)** - {len(jobs)} remote tech jobs")
     lines.append("")
-    lines.append("| Role | Company | Source |")
-    lines.append("|------|---------|--------|")
+    lines.append("| Role | Company | Category | Source |")
+    lines.append("|------|---------|----------|--------|")
     for j in jobs[:10]:
         title   = (j["title"][:55] + "…") if len(j["title"]) > 55 else j["title"]
         company = j["company"][:30]
-        lines.append(f"| [{title}]({j['link']}) | {company} | {j['source']} |")
+        lines.append(f"| [{title}]({j['link']}) | {company} | {j['role']} | {j['source']} |")
     lines.append("")
     lines.append(f"_🔄 Updated daily · [View all {len(jobs)} jobs →](jobs/{today}.md)_")
 
@@ -283,12 +355,16 @@ def update_readme_preview(jobs, today, day):
 def write_site_data(jobs, today, day, stamp, sources, new_count):
     """Emit structured data for the GitHub Pages site (docs/jobs.json)."""
     os.makedirs("docs", exist_ok=True)
+    roles = {}
+    for j in jobs:
+        roles.setdefault(j["role"], []).append(j)
     data = {
         "updated": today,
         "updated_human": f"{day}, {today} · {stamp}",
         "total": len(jobs),
         "new_count": new_count,
         "sources": {src: len(s) for src, s in sorted(sources.items(), key=lambda x: -len(x[1]))},
+        "roles": {r: len(s) for r, s in sorted(roles.items(), key=lambda x: -len(x[1]))},
         "jobs": jobs,
     }
     with open("docs/jobs.json", "w") as f:
@@ -319,7 +395,7 @@ def main():
 
     jobs = [j for lst in raw.values() for j in lst]
     jobs = dedup(jobs)
-    print(f"  ✓ {len(jobs)} unique AI remote jobs found")
+    print(f"  ✓ {len(jobs)} unique remote tech jobs found")
 
     # flag listings not present in the previous snapshot
     prev_links = load_previous_links()
@@ -329,16 +405,19 @@ def main():
         new_count += j["is_new"]
     print(f"  ✓ {new_count} new since last run")
 
-    # group by source
+    # group by source (for the health table) and role (for listings)
     sources = {}
     for j in jobs:
         sources.setdefault(j["source"], []).append(j)
+    roles = {}
+    for j in jobs:
+        roles.setdefault(j["role"], []).append(j)
 
     lines = []
-    lines.append(f"# 🤖 Remote AI Jobs - {day}, {today}")
+    lines.append(f"# 💻 Remote Tech Jobs - {day}, {today}")
     lines.append(f"_Curated daily by **[Abid Redwan](https://aredwan.com)** · **[CodeBeez](https://codebeez.xyz)** · {stamp}_")
     lines.append("")
-    lines.append(f"> **{len(jobs)} remote AI opportunities** scraped from {len(sources)} sources - updated every morning.")
+    lines.append(f"> **{len(jobs)} remote tech opportunities** across {len(roles)} role categories, scraped from {len(sources)} sources - updated every morning.")
     if new_count:
         lines.append(">")
         lines.append(f"> 🆕 **{new_count} new** since the last update.")
@@ -349,29 +428,28 @@ def main():
     # quick stats
     lines.append("## 📊 Today's Stats")
     lines.append("")
-    lines.append("| Source | Jobs Found |")
+    lines.append("| Role Category | Jobs Found |")
     lines.append("|--------|-----------|")
-    for src, sjobs in sorted(sources.items(), key=lambda x: -len(x[1])):
-        lines.append(f"| {src} | {len(sjobs)} |")
+    for role, rjobs in sorted(roles.items(), key=lambda x: -len(x[1])):
+        lines.append(f"| {role} | {len(rjobs)} |")
     lines.append(f"| **Total** | **{len(jobs)}** |")
     lines.append("")
 
-    # listings by source
+    # listings by role
     lines.append("## 💼 Job Listings")
     lines.append("")
-    for src, sjobs in sorted(sources.items(), key=lambda x: -len(x[1])):
-        lines.append(f"### {src}")
+    for role, rjobs in sorted(roles.items(), key=lambda x: -len(x[1])):
+        lines.append(f"### {role}")
         lines.append("")
-        lines.append("| Role | Company | Location | Salary | Tags |")
-        lines.append("|------|---------|----------|--------|------|")
-        for j in sjobs:
+        lines.append("| Role | Company | Location | Salary | Source |")
+        lines.append("|------|---------|----------|--------|--------|")
+        for j in rjobs:
             title    = (j["title"][:60] + "…") if len(j["title"]) > 60 else j["title"]
             flag     = "🆕 " if j.get("is_new") else ""
             company  = j["company"][:35]
             location = j["location"][:25]
             salary   = j["salary"] or "-"
-            tags     = j["tags"][:30] if j["tags"] else "-"
-            lines.append(f"| {flag}[{title}]({j['link']}) | {company} | {location} | {salary} | {tags} |")
+            lines.append(f"| {flag}[{title}]({j['link']}) | {company} | {location} | {salary} | {j['source']} |")
         lines.append("")
 
     lines.append("---")

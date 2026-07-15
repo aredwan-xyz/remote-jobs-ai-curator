@@ -1,4 +1,4 @@
-name: Daily Remote AI Jobs
+name: Daily Remote Tech Jobs
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Fetch remote AI jobs
+      - name: Fetch remote tech jobs
         run: python fetch_jobs.py
 
       - name: Commit and push

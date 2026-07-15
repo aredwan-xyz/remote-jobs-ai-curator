@@ -1,14 +1,15 @@
 <div align="center">
 
-# 💼 Remote AI Jobs Curator
+# 💻 Remote Tech Jobs Curator
 
-### Every remote AI job on the internet - automatically tracked, curated & committed daily.
+### Every remote tech role on the internet — automatically tracked, curated & committed daily.
 
 [![GitHub stars](https://img.shields.io/github/stars/aredwan-xyz/remote-jobs-ai-curator?style=social)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/aredwan-xyz/remote-jobs-ai-curator?style=social)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/network/members)
 [![GitHub last commit](https://img.shields.io/github/last-commit/aredwan-xyz/remote-jobs-ai-curator?style=flat-square&color=green&label=last%20update)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/commits/main)
 [![Automated](https://img.shields.io/badge/🤖%20automated-daily%207am%20UTC-blue?style=flat-square)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/actions)
 [![Sources](https://img.shields.io/badge/sources-4%20job%20boards-orange?style=flat-square)](#sources)
+[![Roles](https://img.shields.io/badge/role%20categories-11-6f7fb0?style=flat-square)](#role-categories)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
 ### **[🌐 Live Site →](https://aredwan-xyz.github.io/remote-jobs-ai-curator/)**
@@ -21,14 +22,15 @@
 
 ## 💡 What is this?
 
-**Remote AI Jobs Curator** automatically scrapes **4 major remote job boards** every morning, filters for AI/ML roles, and commits a clean markdown snapshot - so you never miss an opportunity.
+**Remote Tech Jobs Curator** automatically scrapes **4 major remote job boards** every morning, classifies every listing into a **role category by its title**, and commits a clean markdown + JSON snapshot — so you can filter to exactly the kind of role you want.
 
-- ✅ **Zero manual effort** - GitHub Actions does everything
-- ✅ **AI-filtered** - only ML, Data Science, LLM, NLP, Computer Vision & AI Engineering roles
+- ✅ **Zero manual effort** — GitHub Actions does everything
+- ✅ **Filterable by role** — Engineering, AI/ML, Data, DevOps/Infra, Frontend, Backend, Full-Stack, Mobile, Security, QA/Testing, Product & Design
+- ✅ **Title-only classification** — no false positives from company "about us" boilerplate mentioning AI/tech buzzwords for unrelated roles
 - ✅ **Salary info** included where available
-- ✅ **Full archive** - track market trends over time
-- ✅ **Free forever** - no API keys, no subscriptions
-- ✅ **Forkable** - customize for any job category in minutes
+- ✅ **Full archive** — track market trends over time
+- ✅ **Free forever** — no API keys, no subscriptions
+- ✅ **Forkable** — customize for any role category in minutes
 
 ---
 
@@ -36,40 +38,44 @@
 
 <!-- LATEST-START -->
 <!-- auto-updated: 2026-07-15 -->
-**Latest listings: [Wednesday, 2026-07-15](jobs/2026-07-15.md)** - 46 AI remote jobs
+**Latest listings: [Wednesday, 2026-07-15](jobs/2026-07-15.md)** - 263 remote tech jobs
 
-| Role | Company | Source |
-|------|---------|--------|
-| [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | RemoteOK |
-| [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | RemoteOK |
-| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | RemoteOK |
-| [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
-| [US Tax Law AI Specialist](https://remoteOK.com/remote-jobs/remote-us-tax-law-ai-specialist-weekday-1131606) | Weekday | RemoteOK |
-| [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | RemoteOK |
-| [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | RemoteOK |
-| [3D Modeling & Python Specialist Freelance AI Trainer Pr…](https://remoteOK.com/remote-jobs/remote-3d-modeling-python-specialist-freelance-ai-trainer-project-invisible-agency-1131456) | Invisible Agency | RemoteOK |
-| [AI Solutions Manager SMB](https://remoteOK.com/remote-jobs/remote-ai-solutions-manager-smb-arize-ai-1131453) | Arize AI | RemoteOK |
-| [Data Scientist](https://remoteOK.com/remote-jobs/remote-data-scientist-yo-it-consulting-1131888) | YO IT Consulting | RemoteOK |
+| Role | Company | Category | Source |
+|------|---------|----------|--------|
+| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-com-1134799) | Huzzle.com | Product & Design | RemoteOK |
+| [Product Manager AI](https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770) | YipitData | AI / ML | RemoteOK |
+| [Data Analyst Excel](https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777) | JobsInMass.com | Data | RemoteOK |
+| [Data Analyst Healthcare](https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759) | City of Hope | Data | RemoteOK |
+| [UX UI Designer](https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780) | Palerto Studio | Product & Design | RemoteOK |
+| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712) | Huzzle | Product & Design | RemoteOK |
+| [Graduate Data Scientist](https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707) | Work Force Nexus | AI / ML | RemoteOK |
+| [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
+| [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | AI / ML | RemoteOK |
+| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 46 jobs →](jobs/2026-07-15.md)_
+_🔄 Updated daily · [View all 263 jobs →](jobs/2026-07-15.md)_
 <!-- LATEST-END -->
 
 ---
 
 ## 📡 Sources
 
-| Job Board | Focus |
+| Job Board | Query strategy |
 |-----------|-------|
-| 🌍 **RemoteOK** | Top remote tech jobs - AI/ML/Data tags |
-| 💼 **Remotive** | Curated remote roles - Software, Data & DevOps |
-| 🏠 **WeWorkRemotely** | Hand-picked remote programming & data science jobs |
-| 🤖 **Jobicy** | Remote AI, ML & Data Science roles |
+| 🌍 **RemoteOK** | General feed + 11 category tags, classified by title |
+| 💼 **Remotive** | 7 categories (software-dev, data, devops, design, product, qa, all-others) |
+| 🏠 **WeWorkRemotely** | 8 RSS feeds (programming, data science, design, devops, product, full-stack, backend, frontend) |
+| 🤖 **Jobicy** | General feed (200 most recent), classified by title |
+
+Every source is queried broadly, then every listing is independently classified by **its own title** — the source's own tags/categories are never trusted as a filter signal (they're too permissive; see [`fetch_jobs.py`](fetch_jobs.py) for the false-positive cases that drove this).
 
 ---
 
-## 🎯 Job Categories Tracked
+## 🎯 Role Categories
 
-`AI Engineer` · `ML Engineer` · `Data Scientist` · `Research Scientist` · `NLP Engineer` · `Computer Vision` · `LLM Engineer` · `Prompt Engineer` · `MLOps` · `AI Product Manager` · `Deep Learning` · `Generative AI`
+`AI / ML` · `Engineering` · `Frontend` · `Backend` · `Full-Stack` · `Mobile` · `DevOps / Infra` · `Data` · `Security` · `QA / Testing` · `Product & Design`
+
+Browse and filter by any of these live on the **[site](https://aredwan-xyz.github.io/remote-jobs-ai-curator/)**.
 
 ---
 
@@ -84,13 +90,14 @@ Every day at 7:00 AM UTC
          ▼
   fetch_jobs.py runs
          │
-         ├── 🌍 scrapes RemoteOK (AI/ML/Data tags)
-         ├── 💼 scrapes Remotive (filters by AI keywords)
-         ├── 🏠 scrapes WeWorkRemotely RSS
-         ├── 🤖 scrapes Jobicy API
+         ├── 🌍 scrapes RemoteOK (general + 11 category tags)
+         ├── 💼 scrapes Remotive (7 categories)
+         ├── 🏠 scrapes WeWorkRemotely (8 RSS feeds)
+         ├── 🤖 scrapes Jobicy (general feed)
+         ├── 🏷️  classifies every listing by title into a role category
          ├── 🧹 deduplicates all listings
          ├── 📝 writes jobs/YYYY-MM-DD.md
-         ├── 🔄 updates README with latest listings
+         ├── 🔄 updates README + docs/jobs.json with latest listings
          ├── 📚 updates ARCHIVE.md index
          └── ✅ git commit + push
 ```
@@ -106,10 +113,10 @@ Every day at 7:00 AM UTC
 git clone https://github.com/YOUR_USERNAME/remote-jobs-ai-curator.git
 
 # 3. That's it - GitHub Actions runs automatically every morning!
-# Trigger manually: Actions → Daily Remote AI Jobs → Run workflow
+# Trigger manually: Actions → Daily Remote Tech Jobs → Run workflow
 ```
 
-> **Customize it:** Edit `AI_KEYWORDS` in `fetch_jobs.py` to track different roles. Add new job boards to the fetch functions.
+> **Customize it:** Edit `ROLE_CATEGORIES` in `fetch_jobs.py` to add, remove, or retune role categories. Add new job boards as `fetch_*()` functions.
 
 ---
 
@@ -140,7 +147,7 @@ MIT © [Abid Redwan](https://aredwan.com) · [CodeBeez](https://codebeez.xyz)
 
 <div align="center">
 
-**Looking for your next AI role? ⭐ Star this repo and watch it for daily updates!**
+**Looking for your next remote role? ⭐ Star this repo and watch it for daily updates!**
 
 Made with ☕ by **[Abid Redwan](https://aredwan.com)** · A **[CodeBeez](https://codebeez.xyz)** Project
 
