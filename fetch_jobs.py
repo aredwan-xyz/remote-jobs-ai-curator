@@ -88,9 +88,13 @@ def fetch_remoteok():
                 link     = job.get("url", f"https://remoteok.com/l/{jid}")
                 salary   = job.get("salary_min") or job.get("salary_max")
                 salary_str = f"${salary:,}+" if salary else ""
-                all_tags = " ".join(job.get("tags", []))
                 tags_str = ", ".join(job.get("tags", [])[:5])
-                if title and company and is_ai_job(title, all_tags):
+                # Title only. RemoteOK's tag-query endpoint is loose (querying
+                # tag=ai can return jobs it hasn't tagged "ai" at all, e.g. a
+                # plain Customer Support role) and job description text picks
+                # up unrelated "AI" mentions from company boilerplate — both
+                # let non-AI roles through. The title is the reliable signal.
+                if title and company and is_ai_job(title):
                     jobs.append({
                         "title": title, "company": company,
                         "location": location or "Worldwide",
@@ -117,11 +121,12 @@ def fetch_remotive():
                 seen.add(jid)
                 title   = clean(job.get("title", ""))
                 company = clean(job.get("company_name", ""))
-                desc    = clean(job.get("description", ""))
                 link    = job.get("url", "")
                 salary  = clean(job.get("salary", ""))
                 tags    = ", ".join(job.get("tags", [])[:5])
-                if is_ai_job(title, desc) and title and company:
+                # Title only — description text is too noisy (company "about
+                # us" boilerplate mentions AI even for non-AI roles).
+                if is_ai_job(title) and title and company:
                     jobs.append({
                         "title": title, "company": company,
                         "location": "Worldwide",
@@ -148,9 +153,8 @@ def fetch_wwr():
                 company   = parts[0].strip() if len(parts) > 1 else "Unknown"
                 title     = parts[1].strip() if len(parts) > 1 else title_raw
                 link      = item.findtext("link", "")
-                desc      = clean(item.findtext("description", ""))
                 region    = clean(item.findtext("{https://weworkremotely.com}region", "Worldwide"))
-                if is_ai_job(title, desc):
+                if is_ai_job(title):
                     jobs.append({
                         "title": title, "company": company,
                         "location": region or "Worldwide",
@@ -170,13 +174,12 @@ def fetch_jobicy():
         for job in data.get("jobs", []):
             title    = clean(job.get("jobTitle", ""))
             company  = clean(job.get("companyName", ""))
-            desc     = clean(job.get("jobExcerpt", ""))
             link     = job.get("url", "")
             geo      = clean(job.get("jobGeo", "Worldwide"))
             smin     = job.get("annualSalaryMin")
             salary   = f"${int(smin):,}+" if smin else ""
             industry = clean(", ".join(job.get("jobIndustry", []) or []))
-            if is_ai_job(title, desc + " " + industry) and title and company:
+            if is_ai_job(title) and title and company:
                 jobs.append({
                     "title": title, "company": company,
                     "location": geo or "Worldwide",

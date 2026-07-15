@@ -36,22 +36,22 @@
 
 <!-- LATEST-START -->
 <!-- auto-updated: 2026-07-15 -->
-**Latest listings: [Wednesday, 2026-07-15](jobs/2026-07-15.md)** - 216 AI remote jobs
+**Latest listings: [Wednesday, 2026-07-15](jobs/2026-07-15.md)** - 46 AI remote jobs
 
 | Role | Company | Source |
 |------|---------|--------|
 | [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | RemoteOK |
 | [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | RemoteOK |
-| [Head of Public Understanding](https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914) | NOPE | RemoteOK |
-| [Data Annotator](https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152) | CuraSenseAI | RemoteOK |
-| [2D Artist](https://remoteOK.com/remote-jobs/remote-2d-artist-rubyplay-1131918) | RubyPlay | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | RemoteOK |
-| [Janitor Engineer](https://remoteOK.com/remote-jobs/remote-janitor-engineer-neutrality-1131716) | Neutrality | RemoteOK |
-| [Chief Technology Officer](https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633) | Access Softek | RemoteOK |
-| [adm Permanent Fulltime MEX](https://remoteOK.com/remote-jobs/remote-adm-permanent-fulltime-mex-adm-indicia-1131776) | adm Indicia | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | RemoteOK |
+| [US Tax Law AI Specialist](https://remoteOK.com/remote-jobs/remote-us-tax-law-ai-specialist-weekday-1131606) | Weekday | RemoteOK |
+| [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | RemoteOK |
+| [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | RemoteOK |
+| [3D Modeling & Python Specialist Freelance AI Trainer Pr…](https://remoteOK.com/remote-jobs/remote-3d-modeling-python-specialist-freelance-ai-trainer-project-invisible-agency-1131456) | Invisible Agency | RemoteOK |
+| [AI Solutions Manager SMB](https://remoteOK.com/remote-jobs/remote-ai-solutions-manager-smb-arize-ai-1131453) | Arize AI | RemoteOK |
+| [Data Scientist](https://remoteOK.com/remote-jobs/remote-data-scientist-yo-it-consulting-1131888) | YO IT Consulting | RemoteOK |
 
-_🔄 Updated daily · [View all 216 jobs →](jobs/2026-07-15.md)_
+_🔄 Updated daily · [View all 46 jobs →](jobs/2026-07-15.md)_
 <!-- LATEST-END -->
 
 ---
