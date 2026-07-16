@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-15 -->
-**Latest listings: [Wednesday, 2026-07-15](jobs/2026-07-15.md)** - 263 remote tech jobs
+<!-- auto-updated: 2026-07-16 -->
+**Latest listings: [Thursday, 2026-07-16](jobs/2026-07-16.md)** - 262 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -46,14 +46,14 @@
 | [Product Manager AI](https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770) | YipitData | AI / ML | RemoteOK |
 | [Data Analyst Excel](https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777) | JobsInMass.com | Data | RemoteOK |
 | [Data Analyst Healthcare](https://remoteOK.com/remote-jobs/remote-data-analyst-healthcare-city-of-hope-1134759) | City of Hope | Data | RemoteOK |
-| [UX UI Designer](https://remoteOK.com/remote-jobs/remote-ux-ui-designer-palerto-studio-1134780) | Palerto Studio | Product & Design | RemoteOK |
-| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712) | Huzzle | Product & Design | RemoteOK |
-| [Graduate Data Scientist](https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707) | Work Force Nexus | AI / ML | RemoteOK |
 | [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
 | [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
+| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
+| [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
+| [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 263 jobs →](jobs/2026-07-15.md)_
+_🔄 Updated daily · [View all 262 jobs →](jobs/2026-07-16.md)_
 <!-- LATEST-END -->
 
 ---
