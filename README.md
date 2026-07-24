@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-23 -->
-**Latest listings: [Thursday, 2026-07-23](jobs/2026-07-23.md)** - 352 remote tech jobs
+<!-- auto-updated: 2026-07-24 -->
+**Latest listings: [Friday, 2026-07-24](jobs/2026-07-24.md)** - 373 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [UX DESIGNER](https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227) | Qaledon by Caledonia Financial | Product & Design | RemoteOK |
+| [Backend Developer](https://remoteOK.com/remote-jobs/remote-backend-developer-bjak-1135217) | Bjak | Backend | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-sezzle-1135192) | Sezzle | Product & Design | RemoteOK |
+| [Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-manual-qa-engineer-seeking-alpha-1135351) | Seeking Alpha | QA / Testing | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170) | Chazak Rescue | Product & Design | RemoteOK |
 | [Senior Data Analyst](https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150) | AB InBev | Data | RemoteOK |
-| [Backend Developer](https://remoteOK.com/remote-jobs/remote-backend-developer-albo-1135248) | albo | Backend | RemoteOK |
-| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-360dialog-1135112) | 360Dialog | Product & Design | RemoteOK |
 | [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
-| [Mid Senior AI Cinematic Video Editor](https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014) | EverAI | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 352 jobs →](jobs/2026-07-23.md)_
+_🔄 Updated daily · [View all 373 jobs →](jobs/2026-07-24.md)_
 <!-- LATEST-END -->
 
 ---
