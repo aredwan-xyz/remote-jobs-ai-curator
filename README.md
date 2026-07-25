@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-24 -->
-**Latest listings: [Friday, 2026-07-24](jobs/2026-07-24.md)** - 373 remote tech jobs
+<!-- auto-updated: 2026-07-25 -->
+**Latest listings: [Saturday, 2026-07-25](jobs/2026-07-25.md)** - 360 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Product Designer](https://remoteOK.com/remote-jobs/remote-product-designer-flint-1135340) | Flint | Product & Design | RemoteOK |
+| [Analista de Infraestrutura Pleno DevOps](https://remoteOK.com/remote-jobs/remote-analista-de-infraestrutura-pleno-devops-melhor-envio-1135334) | Melhor Envio | DevOps / Infra | RemoteOK |
+| [GRAPHIC DESIGNER](https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316) | NEW VINE LIMITED | Product & Design | RemoteOK |
+| [UFC GYM Jurnior Graphic Designer](https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299) | UFC GYM | Product & Design | RemoteOK |
 | [UX DESIGNER](https://remoteOK.com/remote-jobs/remote-ux-designer-qaledon-by-caledonia-financial-group-1135227) | Qaledon by Caledonia Financial | Product & Design | RemoteOK |
 | [Backend Developer](https://remoteOK.com/remote-jobs/remote-backend-developer-bjak-1135217) | Bjak | Backend | RemoteOK |
-| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-sezzle-1135192) | Sezzle | Product & Design | RemoteOK |
-| [Manual QA Engineer](https://remoteOK.com/remote-jobs/remote-manual-qa-engineer-seeking-alpha-1135351) | Seeking Alpha | QA / Testing | RemoteOK |
-| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-chazak-rescue-1135170) | Chazak Rescue | Product & Design | RemoteOK |
-| [Senior Data Analyst](https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150) | AB InBev | Data | RemoteOK |
 | [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 373 jobs →](jobs/2026-07-24.md)_
+_🔄 Updated daily · [View all 360 jobs →](jobs/2026-07-25.md)_
 <!-- LATEST-END -->
 
 ---
