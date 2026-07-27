@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-26 -->
-**Latest listings: [Sunday, 2026-07-26](jobs/2026-07-26.md)** - 360 remote tech jobs
+<!-- auto-updated: 2026-07-27 -->
+**Latest listings: [Monday, 2026-07-27](jobs/2026-07-27.md)** - 363 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Safety Data Analyst](https://remoteOK.com/remote-jobs/remote-safety-data-analyst-skywest-airlines-1135445) | SkyWest Airlines | Data | RemoteOK |
 | [Product Designer](https://remoteOK.com/remote-jobs/remote-product-designer-flint-1135340) | Flint | Product & Design | RemoteOK |
 | [Analista de Infraestrutura Pleno DevOps](https://remoteOK.com/remote-jobs/remote-analista-de-infraestrutura-pleno-devops-melhor-envio-1135334) | Melhor Envio | DevOps / Infra | RemoteOK |
-| [GRAPHIC DESIGNER](https://remoteOK.com/remote-jobs/remote-graphic-designer-new-vine-limited-1135316) | NEW VINE LIMITED | Product & Design | RemoteOK |
-| [UFC GYM Jurnior Graphic Designer](https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299) | UFC GYM | Product & Design | RemoteOK |
 | [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
+| [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
 
-_🔄 Updated daily · [View all 360 jobs →](jobs/2026-07-26.md)_
+_🔄 Updated daily · [View all 363 jobs →](jobs/2026-07-27.md)_
 <!-- LATEST-END -->
 
 ---
