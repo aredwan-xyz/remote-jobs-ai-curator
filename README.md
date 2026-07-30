@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-07-29 -->
-**Latest listings: [Wednesday, 2026-07-29](jobs/2026-07-29.md)** - 366 remote tech jobs
+<!-- auto-updated: 2026-07-30 -->
+**Latest listings: [Thursday, 2026-07-30](jobs/2026-07-30.md)** - 360 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610) | Miranda Creative, Inc. | Product & Design | RemoteOK |
+| [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562) | Lemon.io | DevOps / Infra | RemoteOK |
+| [LLM Engineer Freelancer](https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638) | Monterail | AI / ML | RemoteOK |
 | [AI Intern](https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555) | CertifyOS | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-sundayy-1135532) | Sundayy | Product & Design | RemoteOK |
 | [Data Analyst](https://remoteOK.com/remote-jobs/remote-data-analyst-yo-ai-labs-1135558) | YO AI Labs | Data | RemoteOK |
 | [Android Developer](https://remoteOK.com/remote-jobs/remote-android-developer-bjak-1135486) | Bjak | Mobile | RemoteOK |
 | [Junior Graphic Designer](https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-brand-hackers-1135514) | Brand Hackers | Product & Design | RemoteOK |
-| [Software Developer Intermediate](https://remoteOK.com/remote-jobs/remote-software-developer-intermediate-smile-digital-health-1135459) | Smile Digital Health | Engineering | RemoteOK |
 | [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
-| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
-| [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 366 jobs →](jobs/2026-07-29.md)_
+_🔄 Updated daily · [View all 360 jobs →](jobs/2026-07-30.md)_
 <!-- LATEST-END -->
 
 ---
