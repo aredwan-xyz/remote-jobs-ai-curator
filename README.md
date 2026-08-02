@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-01 -->
-**Latest listings: [Saturday, 2026-08-01](jobs/2026-08-01.md)** - 344 remote tech jobs
+<!-- auto-updated: 2026-08-02 -->
+**Latest listings: [Sunday, 2026-08-02](jobs/2026-08-02.md)** - 320 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -46,14 +46,14 @@
 | [AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼](https://remoteOK.com/remote-jobs/) | è½¯è£ è®¾è®¡å ¬å¸ | AI / ML | RemoteOK |
 | [Data Analyst](https://remoteOK.com/remote-jobs/remote-data-analyst-sparksoft-corporation-1135698) | Sparksoft Corporation | Data | RemoteOK |
 | [AI Trainer Freelance Data Annotator](https://remoteOK.com/remote-jobs/remote-ai-trainer-freelance-data-annotator-mindrift-data-annotation-1135680) | Mindrift - Data annotation | AI / ML | RemoteOK |
+| [Junior UI UX Designer](https://remoteOK.com/remote-jobs/remote-junior-ui-ux-designer-marmend-1135902) | Marmend | Product & Design | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767) | Uchromatic | Product & Design | RemoteOK |
 | [Software Engineer GO](https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634) | Wakacje.pl | Engineering | RemoteOK |
-| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610) | Miranda Creative, Inc. | Product & Design | RemoteOK |
-| [Product Manager Â· New York Chicago Charlotte](https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672) | Oula | Product & Design | RemoteOK |
-| [Junior Data Analyst](https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673) | HiredBuddy | Data | RemoteOK |
-| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-marval-software-1135766) | Marval Software | Product & Design | RemoteOK |
+| [Senior AI Engineer Architect](https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396) | Lemon.io | AI / ML | RemoteOK |
+| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
+| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 344 jobs →](jobs/2026-08-01.md)_
+_🔄 Updated daily · [View all 320 jobs →](jobs/2026-08-02.md)_
 <!-- LATEST-END -->
 
 ---
