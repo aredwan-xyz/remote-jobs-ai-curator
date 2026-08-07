@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-06 -->
-**Latest listings: [Thursday, 2026-08-06](jobs/2026-08-06.md)** - 322 remote tech jobs
+<!-- auto-updated: 2026-08-07 -->
+**Latest listings: [Friday, 2026-08-07](jobs/2026-08-07.md)** - 313 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133) | OpenSkills | Product & Design | RemoteOK |
+| [The quest build a better AI tutor](https://remoteOK.com/remote-jobs/remote-the-quest-build-a-better-ai-tutor-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136270) | Cameron Newspapers | Citizen O | AI / ML | RemoteOK |
+| [How AI is reshaping higher education program discovery](https://remoteOK.com/remote-jobs/remote-how-ai-is-reshaping-higher-education-program-discovery-cameron-newspapers-citizen-observer-amp-cameron-shopper-1136272) | Cameron Newspapers | Citizen O | AI / ML | RemoteOK |
 | [Jr Frontend Developer](https://remoteOK.com/remote-jobs/remote-jr-frontend-developer-tatweer-lb-1136124) | Tatweer-lb | Frontend | RemoteOK |
 | [The AI Optimization Playbook](https://remoteOK.com/remote-jobs/remote-the-ai-optimization-playbook-inbrief-ai-1136119) | InBrief.ai | AI / ML | RemoteOK |
-| [Julius AI](https://remoteOK.com/remote-jobs/remote-julius-ai-spore-n-sprouts-1136150) | Spore N Sprouts | AI / ML | RemoteOK |
-| [Data Analyst](https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222) | SEAhub Asia | Data | RemoteOK |
-| [Data Analyst Assistant](https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217) | Arabian Private Holdings | Data | RemoteOK |
-| [Graphic Designer Freelance](https://remoteOK.com/remote-jobs/remote-graphic-designer-freelance-damiani-group-1136122) | DAMIANI Group | Product & Design | RemoteOK |
-| [LiftResume AI](https://remoteOK.com/remote-jobs/remote-liftresume-ai-myriadloop-1136078) | Myriadloop | AI / ML | RemoteOK |
-| [Graphic designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-super-creative-1136123) | Super Creative | Product & Design | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
+| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
+| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
+| [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
+| [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 322 jobs →](jobs/2026-08-06.md)_
+_🔄 Updated daily · [View all 313 jobs →](jobs/2026-08-07.md)_
 <!-- LATEST-END -->
 
 ---
