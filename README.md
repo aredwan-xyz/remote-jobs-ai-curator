@@ -37,12 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-08 -->
-**Latest listings: [Saturday, 2026-08-08](jobs/2026-08-08.md)** - 307 remote tech jobs
+<!-- auto-updated: 2026-08-09 -->
+**Latest listings: [Sunday, 2026-08-09](jobs/2026-08-09.md)** - 300 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
-| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133) | OpenSkills | Product & Design | RemoteOK |
+| [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299) | Lemon.io | Full-Stack | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
@@ -53,7 +53,7 @@
 | [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567) | Phaidra | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 307 jobs →](jobs/2026-08-08.md)_
+_🔄 Updated daily · [View all 300 jobs →](jobs/2026-08-09.md)_
 <!-- LATEST-END -->
 
 ---
