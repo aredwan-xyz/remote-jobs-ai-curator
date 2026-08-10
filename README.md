@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-09 -->
-**Latest listings: [Sunday, 2026-08-09](jobs/2026-08-09.md)** - 300 remote tech jobs
+<!-- auto-updated: 2026-08-10 -->
+**Latest listings: [Monday, 2026-08-10](jobs/2026-08-10.md)** - 307 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567) | Phaidra | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 300 jobs →](jobs/2026-08-09.md)_
+_🔄 Updated daily · [View all 307 jobs →](jobs/2026-08-10.md)_
 <!-- LATEST-END -->
 
 ---
