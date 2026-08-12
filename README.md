@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-11 -->
-**Latest listings: [Tuesday, 2026-08-11](jobs/2026-08-11.md)** - 300 remote tech jobs
+<!-- auto-updated: 2026-08-12 -->
+**Latest listings: [Wednesday, 2026-08-12](jobs/2026-08-12.md)** - 297 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Software QA Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378) | CoverGo | QA / Testing | RemoteOK |
 | [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299) | Lemon.io | Full-Stack | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
@@ -51,9 +52,8 @@
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
 | [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
 | [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567) | Phaidra | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 300 jobs →](jobs/2026-08-11.md)_
+_🔄 Updated daily · [View all 297 jobs →](jobs/2026-08-12.md)_
 <!-- LATEST-END -->
 
 ---
