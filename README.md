@@ -37,11 +37,14 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-12 -->
-**Latest listings: [Wednesday, 2026-08-12](jobs/2026-08-12.md)** - 297 remote tech jobs
+<!-- auto-updated: 2026-08-13 -->
+**Latest listings: [Thursday, 2026-08-13](jobs/2026-08-13.md)** - 295 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Staff Software Engineer](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447) | Evolve | Engineering | RemoteOK |
+| [Artificial Intelligence Specialist](https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555) | Modi's Boutique | AI / ML | RemoteOK |
+| [Aragon AI](https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388) | AI Supermarket | AI / ML | RemoteOK |
 | [Senior Software QA Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378) | CoverGo | QA / Testing | RemoteOK |
 | [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299) | Lemon.io | Full-Stack | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
@@ -49,11 +52,8 @@
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
-| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
-| [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
-| [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 297 jobs →](jobs/2026-08-12.md)_
+_🔄 Updated daily · [View all 295 jobs →](jobs/2026-08-13.md)_
 <!-- LATEST-END -->
 
 ---
