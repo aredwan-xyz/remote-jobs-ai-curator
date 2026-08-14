@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-13 -->
-**Latest listings: [Thursday, 2026-08-13](jobs/2026-08-13.md)** - 295 remote tech jobs
+<!-- auto-updated: 2026-08-14 -->
+**Latest listings: [Friday, 2026-08-14](jobs/2026-08-14.md)** - 307 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579) | Resourceful Talent Group | Product & Design | RemoteOK |
+| [Software Engineer III Mobile](https://remoteOK.com/remote-jobs/remote-software-engineer-iii-mobile-stone-1136570) | Stone | Engineering | RemoteOK |
+| [Software Engineer II Golang](https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569) | Stone | Engineering | RemoteOK |
 | [Staff Software Engineer](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447) | Evolve | Engineering | RemoteOK |
 | [Artificial Intelligence Specialist](https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555) | Modi's Boutique | AI / ML | RemoteOK |
+| [Jenni AI](https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602) | AI Supermarket | AI / ML | RemoteOK |
 | [Aragon AI](https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388) | AI Supermarket | AI / ML | RemoteOK |
 | [Senior Software QA Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378) | CoverGo | QA / Testing | RemoteOK |
-| [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299) | Lemon.io | Full-Stack | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
-| [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
-| [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
-| [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 295 jobs →](jobs/2026-08-13.md)_
+_🔄 Updated daily · [View all 307 jobs →](jobs/2026-08-14.md)_
 <!-- LATEST-END -->
 
 ---

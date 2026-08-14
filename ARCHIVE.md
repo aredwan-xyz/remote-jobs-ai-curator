@@ -2,6 +2,7 @@
 
 | Date | Jobs |
 |------|------|
+| 2026-08-14 | [View listings](jobs/2026-08-14.md) |
 | 2026-08-13 | [View listings](jobs/2026-08-13.md) |
 | 2026-08-12 | [View listings](jobs/2026-08-12.md) |
 | 2026-08-11 | [View listings](jobs/2026-08-11.md) |
