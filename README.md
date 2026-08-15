@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-14 -->
-**Latest listings: [Friday, 2026-08-14](jobs/2026-08-14.md)** - 307 remote tech jobs
+<!-- auto-updated: 2026-08-15 -->
+**Latest listings: [Saturday, 2026-08-15](jobs/2026-08-15.md)** - 296 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Data Engineer](https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594) | Lemon.io | Data | RemoteOK |
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579) | Resourceful Talent Group | Product & Design | RemoteOK |
 | [Software Engineer III Mobile](https://remoteOK.com/remote-jobs/remote-software-engineer-iii-mobile-stone-1136570) | Stone | Engineering | RemoteOK |
 | [Software Engineer II Golang](https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stone-1136569) | Stone | Engineering | RemoteOK |
@@ -51,9 +52,8 @@
 | [Aragon AI](https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388) | AI Supermarket | AI / ML | RemoteOK |
 | [Senior Software QA Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378) | CoverGo | QA / Testing | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
-| [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 307 jobs →](jobs/2026-08-14.md)_
+_🔄 Updated daily · [View all 296 jobs →](jobs/2026-08-15.md)_
 <!-- LATEST-END -->
 
 ---
