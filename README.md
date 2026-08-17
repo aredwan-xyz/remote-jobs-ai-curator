@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-16 -->
-**Latest listings: [Sunday, 2026-08-16](jobs/2026-08-16.md)** - 288 remote tech jobs
+<!-- auto-updated: 2026-08-17 -->
+**Latest listings: [Monday, 2026-08-17](jobs/2026-08-17.md)** - 291 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Software Engineer Case Execution](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795) | Pivotal Health | Engineering | RemoteOK |
 | [Senior Data Engineer](https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594) | Lemon.io | Data | RemoteOK |
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579) | Resourceful Talent Group | Product & Design | RemoteOK |
 | [Software Engineer III Mobile](https://remoteOK.com/remote-jobs/remote-software-engineer-iii-mobile-stone-1136570) | Stone | Engineering | RemoteOK |
@@ -51,9 +52,8 @@
 | [Jenni AI](https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602) | AI Supermarket | AI / ML | RemoteOK |
 | [Aragon AI](https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388) | AI Supermarket | AI / ML | RemoteOK |
 | [Senior Software QA Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378) | CoverGo | QA / Testing | RemoteOK |
-| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-shopper1st-1136807) | Shopper1st | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 288 jobs →](jobs/2026-08-16.md)_
+_🔄 Updated daily · [View all 291 jobs →](jobs/2026-08-17.md)_
 <!-- LATEST-END -->
 
 ---
