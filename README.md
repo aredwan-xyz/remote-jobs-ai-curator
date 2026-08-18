@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-17 -->
-**Latest listings: [Monday, 2026-08-17](jobs/2026-08-17.md)** - 291 remote tech jobs
+<!-- auto-updated: 2026-08-18 -->
+**Latest listings: [Tuesday, 2026-08-18](jobs/2026-08-18.md)** - 292 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -51,9 +51,9 @@
 | [Artificial Intelligence Specialist](https://remoteOK.com/remote-jobs/remote-artificial-intelligence-specialist-modis-boutique-1136555) | Modi's Boutique | AI / ML | RemoteOK |
 | [Jenni AI](https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602) | AI Supermarket | AI / ML | RemoteOK |
 | [Aragon AI](https://remoteOK.com/remote-jobs/remote-aragon-ai-ai-supermarket-1136388) | AI Supermarket | AI / ML | RemoteOK |
-| [Senior Software QA Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378) | CoverGo | QA / Testing | RemoteOK |
+| [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 291 jobs →](jobs/2026-08-17.md)_
+_🔄 Updated daily · [View all 292 jobs →](jobs/2026-08-18.md)_
 <!-- LATEST-END -->
 
 ---
