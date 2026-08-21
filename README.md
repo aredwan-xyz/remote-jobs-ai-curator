@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-20 -->
-**Latest listings: [Thursday, 2026-08-20](jobs/2026-08-20.md)** - 352 remote tech jobs
+<!-- auto-updated: 2026-08-21 -->
+**Latest listings: [Friday, 2026-08-21](jobs/2026-08-21.md)** - 326 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
 | [Principal Data Engineer](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860) | Vomela | Data | RemoteOK |
 | [Lead Product Designer](https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841) | HighLevel | Product & Design | RemoteOK |
 | [Senior Software Engineer Case Execution](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795) | Pivotal Health | Engineering | RemoteOK |
-| [Senior Data Engineer](https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594) | Lemon.io | Data | RemoteOK |
 | [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
+| [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
 
-_🔄 Updated daily · [View all 352 jobs →](jobs/2026-08-20.md)_
+_🔄 Updated daily · [View all 326 jobs →](jobs/2026-08-21.md)_
 <!-- LATEST-END -->
 
 ---
