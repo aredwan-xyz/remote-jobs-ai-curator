@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-21 -->
-**Latest listings: [Friday, 2026-08-21](jobs/2026-08-21.md)** - 326 remote tech jobs
+<!-- auto-updated: 2026-08-22 -->
+**Latest listings: [Saturday, 2026-08-22](jobs/2026-08-22.md)** - 286 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
 | [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
 
-_🔄 Updated daily · [View all 326 jobs →](jobs/2026-08-21.md)_
+_🔄 Updated daily · [View all 286 jobs →](jobs/2026-08-22.md)_
 <!-- LATEST-END -->
 
 ---
