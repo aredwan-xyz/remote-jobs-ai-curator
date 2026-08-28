@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-27 -->
-**Latest listings: [Thursday, 2026-08-27](jobs/2026-08-27.md)** - 317 remote tech jobs
+<!-- auto-updated: 2026-08-28 -->
+**Latest listings: [Friday, 2026-08-28](jobs/2026-08-28.md)** - 298 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 317 jobs →](jobs/2026-08-27.md)_
+_🔄 Updated daily · [View all 298 jobs →](jobs/2026-08-28.md)_
 <!-- LATEST-END -->
 
 ---
