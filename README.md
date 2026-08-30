@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-29 -->
-**Latest listings: [Saturday, 2026-08-29](jobs/2026-08-29.md)** - 299 remote tech jobs
+<!-- auto-updated: 2026-08-30 -->
+**Latest listings: [Sunday, 2026-08-30](jobs/2026-08-30.md)** - 300 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -47,13 +47,13 @@
 | [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136) | Interaction Design Foundation | AI / ML | RemoteOK |
 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | AI / ML | RemoteOK |
 | [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | Kruger NearShore LLC - Rekluti | Full-Stack | RemoteOK |
-| [GenAI Engineer AI Builder AI Agent Associate Specialist](https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735) | Magic Compass Limited | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
+| [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 299 jobs →](jobs/2026-08-29.md)_
+_🔄 Updated daily · [View all 300 jobs →](jobs/2026-08-30.md)_
 <!-- LATEST-END -->
 
 ---
