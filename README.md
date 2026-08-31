@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-08-30 -->
-**Latest listings: [Sunday, 2026-08-30](jobs/2026-08-30.md)** - 300 remote tech jobs
+<!-- auto-updated: 2026-08-31 -->
+**Latest listings: [Monday, 2026-08-31](jobs/2026-08-31.md)** - 299 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 300 jobs →](jobs/2026-08-30.md)_
+_🔄 Updated daily · [View all 299 jobs →](jobs/2026-08-31.md)_
 <!-- LATEST-END -->
 
 ---
