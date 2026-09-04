@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-03 -->
-**Latest listings: [Thursday, 2026-09-03](jobs/2026-09-03.md)** - 307 remote tech jobs
+<!-- auto-updated: 2026-09-04 -->
+**Latest listings: [Friday, 2026-09-04](jobs/2026-09-04.md)** - 273 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | AI / ML | RemoteOK |
-| [Course Director UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139) | Interaction Design Foundation | AI / ML | RemoteOK |
-| [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138) | Interaction Design Foundation | AI / ML | RemoteOK |
-| [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136) | Interaction Design Foundation | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
 | [Head of Operations Overtime.ai](https://remoteOK.com/remote-jobs/remote-head-of-operations-overtime-ai-acclaim-ai-1131709) | Acclaim AI | AI / ML | RemoteOK |
 | [Member of Technical Staff Applied ML RecSys](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627) | Liquid AI | AI / ML | RemoteOK |
 | [Business Owners Freelance AI Trainer Project](https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600) | Invisible Agency | AI / ML | RemoteOK |
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
 | [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
+| [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
+| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567) | Phaidra | Engineering | RemoteOK |
+| [Senior Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-saas-group-1131468) | saas.group | DevOps / Infra | RemoteOK |
 
-_🔄 Updated daily · [View all 307 jobs →](jobs/2026-09-03.md)_
+_🔄 Updated daily · [View all 273 jobs →](jobs/2026-09-04.md)_
 <!-- LATEST-END -->
 
 ---
