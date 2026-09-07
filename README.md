@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-06 -->
-**Latest listings: [Sunday, 2026-09-06](jobs/2026-09-06.md)** - 276 remote tech jobs
+<!-- auto-updated: 2026-09-07 -->
+**Latest listings: [Monday, 2026-09-07](jobs/2026-09-07.md)** - 275 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [AI Response Analyst](https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309) | iMerit Technology | AI / ML | RemoteOK |
 | [QA Engineer](https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300) | SunnyData | QA / Testing | RemoteOK |
 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | AI / ML | RemoteOK |
 | [Graphic Designer](https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676) | Swoon | Product & Design | RemoteOK |
@@ -51,9 +52,8 @@
 | [Product Manager](https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589) | Cosuno | Product & Design | RemoteOK |
 | [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
 | [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567) | Phaidra | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 276 jobs →](jobs/2026-09-06.md)_
+_🔄 Updated daily · [View all 275 jobs →](jobs/2026-09-07.md)_
 <!-- LATEST-END -->
 
 ---
