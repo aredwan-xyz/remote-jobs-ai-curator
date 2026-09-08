@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-07 -->
-**Latest listings: [Monday, 2026-09-07](jobs/2026-09-07.md)** - 275 remote tech jobs
+<!-- auto-updated: 2026-09-08 -->
+**Latest listings: [Tuesday, 2026-09-08](jobs/2026-09-08.md)** - 278 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Staff Backend Engineer Core Product](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-core-product-kalepa-1131586) | Kalepa | Backend | RemoteOK |
 | [Senior AI System Software Developer](https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572) | Wealthsimple Technologies | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 275 jobs →](jobs/2026-09-07.md)_
+_🔄 Updated daily · [View all 278 jobs →](jobs/2026-09-08.md)_
 <!-- LATEST-END -->
 
 ---
