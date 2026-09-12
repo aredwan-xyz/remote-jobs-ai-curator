@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-11 -->
-**Latest listings: [Friday, 2026-09-11](jobs/2026-09-11.md)** - 279 remote tech jobs
+<!-- auto-updated: 2026-09-12 -->
+**Latest listings: [Saturday, 2026-09-12](jobs/2026-09-12.md)** - 288 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Lead Product Designer](https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841) | HighLevel | Product & Design | RemoteOK |
 | [Senior Software Engineer Case Execution](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795) | Pivotal Health | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 279 jobs →](jobs/2026-09-11.md)_
+_🔄 Updated daily · [View all 288 jobs →](jobs/2026-09-12.md)_
 <!-- LATEST-END -->
 
 ---
