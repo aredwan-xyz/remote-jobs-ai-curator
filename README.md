@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-13 -->
-**Latest listings: [Sunday, 2026-09-13](jobs/2026-09-13.md)** - 287 remote tech jobs
+<!-- auto-updated: 2026-09-14 -->
+**Latest listings: [Monday, 2026-09-14](jobs/2026-09-14.md)** - 238 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Technical Product Lead AI Finance App](https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388) | Bjak | AI / ML | RemoteOK |
+| [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387) | Mirantis | Engineering | RemoteOK |
 | [AI Response Analyst](https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309) | iMerit Technology | AI / ML | RemoteOK |
 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | AI / ML | RemoteOK |
 | [Course Director UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139) | Interaction Design Foundation | AI / ML | RemoteOK |
@@ -50,10 +52,8 @@
 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | AI / ML | RemoteOK |
 | [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | Kruger NearShore LLC - Rekluti | Full-Stack | RemoteOK |
 | [Principal Data Engineer](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860) | Vomela | Data | RemoteOK |
-| [Lead Product Designer](https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841) | HighLevel | Product & Design | RemoteOK |
-| [Senior Software Engineer Case Execution](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795) | Pivotal Health | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 287 jobs →](jobs/2026-09-13.md)_
+_🔄 Updated daily · [View all 238 jobs →](jobs/2026-09-14.md)_
 <!-- LATEST-END -->
 
 ---
