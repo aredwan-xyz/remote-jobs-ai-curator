@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-15 -->
-**Latest listings: [Tuesday, 2026-09-15](jobs/2026-09-15.md)** - 277 remote tech jobs
+<!-- auto-updated: 2026-09-16 -->
+**Latest listings: [Wednesday, 2026-09-16](jobs/2026-09-16.md)** - 278 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | Kruger NearShore LLC - Rekluti | Full-Stack | RemoteOK |
 | [Principal Data Engineer](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860) | Vomela | Data | RemoteOK |
 
-_🔄 Updated daily · [View all 277 jobs →](jobs/2026-09-15.md)_
+_🔄 Updated daily · [View all 278 jobs →](jobs/2026-09-16.md)_
 <!-- LATEST-END -->
 
 ---
