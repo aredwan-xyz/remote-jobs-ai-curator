@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-16 -->
-**Latest listings: [Wednesday, 2026-09-16](jobs/2026-09-16.md)** - 278 remote tech jobs
+<!-- auto-updated: 2026-09-17 -->
+**Latest listings: [Thursday, 2026-09-17](jobs/2026-09-17.md)** - 289 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
+| [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
 | [Technical Product Lead AI Finance App](https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388) | Bjak | AI / ML | RemoteOK |
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387) | Mirantis | Engineering | RemoteOK |
 | [AI Response Analyst](https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309) | iMerit Technology | AI / ML | RemoteOK |
@@ -50,10 +52,8 @@
 | [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138) | Interaction Design Foundation | AI / ML | RemoteOK |
 | [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136) | Interaction Design Foundation | AI / ML | RemoteOK |
 | [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | AI / ML | RemoteOK |
-| [DESARROLLADOR FULL STACK](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | Kruger NearShore LLC - Rekluti | Full-Stack | RemoteOK |
-| [Principal Data Engineer](https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860) | Vomela | Data | RemoteOK |
 
-_🔄 Updated daily · [View all 278 jobs →](jobs/2026-09-16.md)_
+_🔄 Updated daily · [View all 289 jobs →](jobs/2026-09-17.md)_
 <!-- LATEST-END -->
 
 ---
