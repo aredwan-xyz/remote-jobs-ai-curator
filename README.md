@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-17 -->
-**Latest listings: [Thursday, 2026-09-17](jobs/2026-09-17.md)** - 289 remote tech jobs
+<!-- auto-updated: 2026-09-18 -->
+**Latest listings: [Friday, 2026-09-18](jobs/2026-09-18.md)** - 252 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Golang Kubernetes Engineer](https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400) | Arango | DevOps / Infra | RemoteOK |
+| [AI agent engineer](https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399) | Sticker Mule | AI / ML | RemoteOK |
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
 | [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
 | [Technical Product Lead AI Finance App](https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388) | Bjak | AI / ML | RemoteOK |
@@ -50,10 +52,8 @@
 | [AI Engineer Data APIs](https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224) | Benzinga | AI / ML | RemoteOK |
 | [Course Director UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139) | Interaction Design Foundation | AI / ML | RemoteOK |
 | [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138) | Interaction Design Foundation | AI / ML | RemoteOK |
-| [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136) | Interaction Design Foundation | AI / ML | RemoteOK |
-| [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114) | Salesforge | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 289 jobs →](jobs/2026-09-17.md)_
+_🔄 Updated daily · [View all 252 jobs →](jobs/2026-09-18.md)_
 <!-- LATEST-END -->
 
 ---
