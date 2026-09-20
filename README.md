@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-19 -->
-**Latest listings: [Saturday, 2026-09-19](jobs/2026-09-19.md)** - 220 remote tech jobs
+<!-- auto-updated: 2026-09-20 -->
+**Latest listings: [Sunday, 2026-09-20](jobs/2026-09-20.md)** - 220 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Course Director UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139) | Interaction Design Foundation | AI / ML | RemoteOK |
 | [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138) | Interaction Design Foundation | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 220 jobs →](jobs/2026-09-19.md)_
+_🔄 Updated daily · [View all 220 jobs →](jobs/2026-09-20.md)_
 <!-- LATEST-END -->
 
 ---
