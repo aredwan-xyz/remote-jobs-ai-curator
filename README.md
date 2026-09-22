@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-21 -->
-**Latest listings: [Monday, 2026-09-21](jobs/2026-09-21.md)** - 221 remote tech jobs
+<!-- auto-updated: 2026-09-22 -->
+**Latest listings: [Tuesday, 2026-09-22](jobs/2026-09-22.md)** - 214 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387) | Mirantis | Engineering | RemoteOK |
 | [AI Response Analyst](https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309) | iMerit Technology | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 221 jobs →](jobs/2026-09-21.md)_
+_🔄 Updated daily · [View all 214 jobs →](jobs/2026-09-22.md)_
 <!-- LATEST-END -->
 
 ---
