@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-22 -->
-**Latest listings: [Tuesday, 2026-09-22](jobs/2026-09-22.md)** - 214 remote tech jobs
+<!-- auto-updated: 2026-09-23 -->
+**Latest listings: [Wednesday, 2026-09-23](jobs/2026-09-23.md)** - 224 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Software Developer Security Analytics](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | RedMimicry | Engineering | RemoteOK |
+| [Senior Growth Product Manager AI Native](https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414) | Magic Eden | AI / ML | RemoteOK |
 | [Senior .NET Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411) | OkWhen | Engineering | RemoteOK |
 | [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410) | Bjak | Frontend | RemoteOK |
 | [Backend Software Engineer](https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409) | Airspace Link | Backend | RemoteOK |
@@ -50,10 +52,8 @@
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
 | [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
 | [Technical Product Lead AI Finance App](https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388) | Bjak | AI / ML | RemoteOK |
-| [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387) | Mirantis | Engineering | RemoteOK |
-| [AI Response Analyst](https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309) | iMerit Technology | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 214 jobs →](jobs/2026-09-22.md)_
+_🔄 Updated daily · [View all 224 jobs →](jobs/2026-09-23.md)_
 <!-- LATEST-END -->
 
 ---
