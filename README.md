@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-09-23 -->
-**Latest listings: [Wednesday, 2026-09-23](jobs/2026-09-23.md)** - 224 remote tech jobs
+<!-- auto-updated: 2026-09-24 -->
+**Latest listings: [Thursday, 2026-09-24](jobs/2026-09-24.md)** - 227 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Technical Product Manager AI Stockbroking App](https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421) | Bjak | AI / ML | RemoteOK |
+| [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420) | Bjak | Frontend | RemoteOK |
 | [Software Developer Security Analytics](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | RedMimicry | Engineering | RemoteOK |
 | [Senior Growth Product Manager AI Native](https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414) | Magic Eden | AI / ML | RemoteOK |
 | [Senior .NET Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411) | OkWhen | Engineering | RemoteOK |
-| [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410) | Bjak | Frontend | RemoteOK |
 | [Backend Software Engineer](https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409) | Airspace Link | Backend | RemoteOK |
 | [Golang Kubernetes Engineer](https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400) | Arango | DevOps / Infra | RemoteOK |
 | [AI agent engineer](https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399) | Sticker Mule | AI / ML | RemoteOK |
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
 | [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
-| [Technical Product Lead AI Finance App](https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388) | Bjak | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 224 jobs →](jobs/2026-09-23.md)_
+_🔄 Updated daily · [View all 227 jobs →](jobs/2026-09-24.md)_
 <!-- LATEST-END -->
 
 ---
