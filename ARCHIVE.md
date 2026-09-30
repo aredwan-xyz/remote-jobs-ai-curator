@@ -2,6 +2,7 @@
 
 | Date | Jobs |
 |------|------|
+| 2026-09-30 | [View listings](jobs/2026-09-30.md) |
 | 2026-09-29 | [View listings](jobs/2026-09-29.md) |
 | 2026-09-28 | [View listings](jobs/2026-09-28.md) |
 | 2026-09-27 | [View listings](jobs/2026-09-27.md) |
