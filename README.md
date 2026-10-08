@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-07 -->
-**Latest listings: [Wednesday, 2026-10-07](jobs/2026-10-07.md)** - 241 remote tech jobs
+<!-- auto-updated: 2026-10-08 -->
+**Latest listings: [Thursday, 2026-10-08](jobs/2026-10-08.md)** - 233 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
 | [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 241 jobs →](jobs/2026-10-07.md)_
+_🔄 Updated daily · [View all 233 jobs →](jobs/2026-10-08.md)_
 <!-- LATEST-END -->
 
 ---
