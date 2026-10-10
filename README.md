@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-09 -->
-**Latest listings: [Friday, 2026-10-09](jobs/2026-10-09.md)** - 230 remote tech jobs
+<!-- auto-updated: 2026-10-10 -->
+**Latest listings: [Saturday, 2026-10-10](jobs/2026-10-10.md)** - 244 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Full-Stack | RemoteOK |
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Engineering | RemoteOK |
 | [Technical Product Manager AI Stockbroking App](https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421) | Bjak | AI / ML | RemoteOK |
 | [Software Developer Security Analytics](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | RedMimicry | Engineering | RemoteOK |
@@ -51,9 +52,8 @@
 | [Golang Kubernetes Engineer](https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400) | Arango | DevOps / Infra | RemoteOK |
 | [AI agent engineer](https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399) | Sticker Mule | AI / ML | RemoteOK |
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
-| [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 230 jobs →](jobs/2026-10-09.md)_
+_🔄 Updated daily · [View all 244 jobs →](jobs/2026-10-10.md)_
 <!-- LATEST-END -->
 
 ---
