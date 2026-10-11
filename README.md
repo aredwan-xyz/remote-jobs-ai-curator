@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-10 -->
-**Latest listings: [Saturday, 2026-10-10](jobs/2026-10-10.md)** - 244 remote tech jobs
+<!-- auto-updated: 2026-10-11 -->
+**Latest listings: [Sunday, 2026-10-11](jobs/2026-10-11.md)** - 237 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [AI agent engineer](https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399) | Sticker Mule | AI / ML | RemoteOK |
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 244 jobs →](jobs/2026-10-10.md)_
+_🔄 Updated daily · [View all 237 jobs →](jobs/2026-10-11.md)_
 <!-- LATEST-END -->
 
 ---
