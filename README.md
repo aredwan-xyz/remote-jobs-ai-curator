@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-12 -->
-**Latest listings: [Monday, 2026-10-12](jobs/2026-10-12.md)** - 249 remote tech jobs
+<!-- auto-updated: 2026-10-13 -->
+**Latest listings: [Tuesday, 2026-10-13](jobs/2026-10-13.md)** - 250 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -50,10 +50,10 @@
 | [Senior .NET Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411) | OkWhen | Engineering | RemoteOK |
 | [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410) | Bjak | Frontend | RemoteOK |
 | [Golang Kubernetes Engineer](https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400) | Arango | DevOps / Infra | RemoteOK |
-| [AI agent engineer](https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399) | Sticker Mule | AI / ML | RemoteOK |
 | [AI Trainer Image QA Evaluator](https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398) | iMerit Technology | AI / ML | RemoteOK |
+| [Principal Product Manager](https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396) | DomainTools | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 249 jobs →](jobs/2026-10-12.md)_
+_🔄 Updated daily · [View all 250 jobs →](jobs/2026-10-13.md)_
 <!-- LATEST-END -->
 
 ---
