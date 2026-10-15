@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-14 -->
-**Latest listings: [Wednesday, 2026-10-14](jobs/2026-10-14.md)** - 251 remote tech jobs
+<!-- auto-updated: 2026-10-15 -->
+**Latest listings: [Thursday, 2026-10-15](jobs/2026-10-15.md)** - 242 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410) | Bjak | Frontend | RemoteOK |
 | [Golang Kubernetes Engineer](https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400) | Arango | DevOps / Infra | RemoteOK |
 
-_🔄 Updated daily · [View all 251 jobs →](jobs/2026-10-14.md)_
+_🔄 Updated daily · [View all 242 jobs →](jobs/2026-10-15.md)_
 <!-- LATEST-END -->
 
 ---
