@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-15 -->
-**Latest listings: [Thursday, 2026-10-15](jobs/2026-10-15.md)** - 242 remote tech jobs
+<!-- auto-updated: 2026-10-16 -->
+**Latest listings: [Friday, 2026-10-16](jobs/2026-10-16.md)** - 252 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Sr REACT NATIVE](https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523) | Somnio Software | Mobile | RemoteOK |
+| [AI Trainer](https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513) | iMerit Technology | AI / ML | RemoteOK |
 | [Principal Product Manager Strategic Initiatives](https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510) | Thyme Care | Product & Design | RemoteOK |
 | [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508) | Vytalize Health | Engineering | RemoteOK |
 | [Graphic Designer & Video Editor](https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507) | BlueTuskr | Product & Design | RemoteOK |
@@ -50,10 +52,8 @@
 | [Technical Product Manager AI Stockbroking App](https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421) | Bjak | AI / ML | RemoteOK |
 | [Senior Growth Product Manager AI Native](https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414) | Magic Eden | AI / ML | RemoteOK |
 | [Senior .NET Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411) | OkWhen | Engineering | RemoteOK |
-| [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410) | Bjak | Frontend | RemoteOK |
-| [Golang Kubernetes Engineer](https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400) | Arango | DevOps / Infra | RemoteOK |
 
-_🔄 Updated daily · [View all 242 jobs →](jobs/2026-10-15.md)_
+_🔄 Updated daily · [View all 252 jobs →](jobs/2026-10-16.md)_
 <!-- LATEST-END -->
 
 ---
