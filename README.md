@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-17 -->
-**Latest listings: [Saturday, 2026-10-17](jobs/2026-10-17.md)** - 229 remote tech jobs
+<!-- auto-updated: 2026-10-18 -->
+**Latest listings: [Sunday, 2026-10-18](jobs/2026-10-18.md)** - 246 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | AI / ML | RemoteOK |
 | [Associate Data Scientist](https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531) | AlgaeCal | AI / ML | RemoteOK |
 | [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | AI / ML | RemoteOK |
 | [Sr REACT NATIVE](https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523) | Somnio Software | Mobile | RemoteOK |
@@ -51,9 +52,8 @@
 | [Graphic Designer & Video Editor](https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507) | BlueTuskr | Product & Design | RemoteOK |
 | [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Full-Stack | RemoteOK |
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Engineering | RemoteOK |
-| [Technical Product Manager AI Stockbroking App](https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421) | Bjak | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 229 jobs →](jobs/2026-10-17.md)_
+_🔄 Updated daily · [View all 246 jobs →](jobs/2026-10-18.md)_
 <!-- LATEST-END -->
 
 ---
