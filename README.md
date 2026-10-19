@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-18 -->
-**Latest listings: [Sunday, 2026-10-18](jobs/2026-10-18.md)** - 246 remote tech jobs
+<!-- auto-updated: 2026-10-19 -->
+**Latest listings: [Monday, 2026-10-19](jobs/2026-10-19.md)** - 249 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Full-Stack | RemoteOK |
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 246 jobs →](jobs/2026-10-18.md)_
+_🔄 Updated daily · [View all 249 jobs →](jobs/2026-10-19.md)_
 <!-- LATEST-END -->
 
 ---
