@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-19 -->
-**Latest listings: [Monday, 2026-10-19](jobs/2026-10-19.md)** - 249 remote tech jobs
+<!-- auto-updated: 2026-10-20 -->
+**Latest listings: [Tuesday, 2026-10-20](jobs/2026-10-20.md)** - 249 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
+| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Backend | RemoteOK |
 | [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | AI / ML | RemoteOK |
 | [Associate Data Scientist](https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531) | AlgaeCal | AI / ML | RemoteOK |
 | [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | AI / ML | RemoteOK |
@@ -50,10 +52,8 @@
 | [Principal Product Manager Strategic Initiatives](https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510) | Thyme Care | Product & Design | RemoteOK |
 | [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508) | Vytalize Health | Engineering | RemoteOK |
 | [Graphic Designer & Video Editor](https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507) | BlueTuskr | Product & Design | RemoteOK |
-| [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475) | Lemon.io | Full-Stack | RemoteOK |
-| [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | Prenosis | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 249 jobs →](jobs/2026-10-19.md)_
+_🔄 Updated daily · [View all 249 jobs →](jobs/2026-10-20.md)_
 <!-- LATEST-END -->
 
 ---
