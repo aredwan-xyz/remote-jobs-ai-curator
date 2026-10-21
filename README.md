@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-20 -->
-**Latest listings: [Tuesday, 2026-10-20](jobs/2026-10-20.md)** - 249 remote tech jobs
+<!-- auto-updated: 2026-10-21 -->
+**Latest listings: [Wednesday, 2026-10-21](jobs/2026-10-21.md)** - 252 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508) | Vytalize Health | Engineering | RemoteOK |
 | [Graphic Designer & Video Editor](https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507) | BlueTuskr | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 249 jobs →](jobs/2026-10-20.md)_
+_🔄 Updated daily · [View all 252 jobs →](jobs/2026-10-21.md)_
 <!-- LATEST-END -->
 
 ---
