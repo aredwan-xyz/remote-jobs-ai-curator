@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-22 -->
-**Latest listings: [Thursday, 2026-10-22](jobs/2026-10-22.md)** - 251 remote tech jobs
+<!-- auto-updated: 2026-10-23 -->
+**Latest listings: [Friday, 2026-10-23](jobs/2026-10-23.md)** - 251 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551) | DuckDuckGo | Backend | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Backend | RemoteOK |
 | [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | AI / ML | RemoteOK |
@@ -51,9 +52,8 @@
 | [AI Trainer](https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513) | iMerit Technology | AI / ML | RemoteOK |
 | [Principal Product Manager Strategic Initiatives](https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510) | Thyme Care | Product & Design | RemoteOK |
 | [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508) | Vytalize Health | Engineering | RemoteOK |
-| [Graphic Designer & Video Editor](https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507) | BlueTuskr | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 251 jobs →](jobs/2026-10-22.md)_
+_🔄 Updated daily · [View all 251 jobs →](jobs/2026-10-23.md)_
 <!-- LATEST-END -->
 
 ---
