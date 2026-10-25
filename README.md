@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-24 -->
-**Latest listings: [Saturday, 2026-10-24](jobs/2026-10-24.md)** - 243 remote tech jobs
+<!-- auto-updated: 2026-10-25 -->
+**Latest listings: [Sunday, 2026-10-25](jobs/2026-10-25.md)** - 250 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Solutions Engineer](https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568) | Onebrief | Engineering | RemoteOK |
+| [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562) | B2spin | Frontend | RemoteOK |
 | [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | DevOps / Infra | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551) | DuckDuckGo | Backend | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
@@ -50,10 +52,8 @@
 | [Associate Data Scientist](https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531) | AlgaeCal | AI / ML | RemoteOK |
 | [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | AI / ML | RemoteOK |
 | [Sr REACT NATIVE](https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523) | Somnio Software | Mobile | RemoteOK |
-| [AI Trainer](https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513) | iMerit Technology | AI / ML | RemoteOK |
-| [Principal Product Manager Strategic Initiatives](https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510) | Thyme Care | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 243 jobs →](jobs/2026-10-24.md)_
+_🔄 Updated daily · [View all 250 jobs →](jobs/2026-10-25.md)_
 <!-- LATEST-END -->
 
 ---
