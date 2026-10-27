@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-26 -->
-**Latest listings: [Monday, 2026-10-26](jobs/2026-10-26.md)** - 257 remote tech jobs
+<!-- auto-updated: 2026-10-27 -->
+**Latest listings: [Tuesday, 2026-10-27](jobs/2026-10-27.md)** - 248 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Engineering | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571) | Klardaten | Engineering | RemoteOK |
 | [Solutions Engineer](https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568) | Onebrief | Engineering | RemoteOK |
 | [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562) | B2spin | Frontend | RemoteOK |
@@ -51,9 +52,8 @@
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Backend | RemoteOK |
 | [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | AI / ML | RemoteOK |
 | [Associate Data Scientist](https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531) | AlgaeCal | AI / ML | RemoteOK |
-| [Senior Software Engineer II Applied AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527) | Wrapbook | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 257 jobs →](jobs/2026-10-26.md)_
+_🔄 Updated daily · [View all 248 jobs →](jobs/2026-10-27.md)_
 <!-- LATEST-END -->
 
 ---
