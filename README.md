@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-27 -->
-**Latest listings: [Tuesday, 2026-10-27](jobs/2026-10-27.md)** - 248 remote tech jobs
+<!-- auto-updated: 2026-10-28 -->
+**Latest listings: [Wednesday, 2026-10-28](jobs/2026-10-28.md)** - 248 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | AI / ML | RemoteOK |
 | [Associate Data Scientist](https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531) | AlgaeCal | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 248 jobs →](jobs/2026-10-27.md)_
+_🔄 Updated daily · [View all 248 jobs →](jobs/2026-10-28.md)_
 <!-- LATEST-END -->
 
 ---
