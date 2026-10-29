@@ -2,7 +2,7 @@
 
 # 💻 Remote Tech Jobs Curator
 
-### Every remote tech role on the internet — automatically tracked, curated & committed daily.
+### Remote tech listings collected from four job boards, with daily snapshots.
 
 [![GitHub stars](https://img.shields.io/github/stars/aredwan-xyz/remote-jobs-ai-curator?style=social)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/aredwan-xyz/remote-jobs-ai-curator?style=social)](https://github.com/aredwan-xyz/remote-jobs-ai-curator/network/members)
@@ -24,12 +24,12 @@
 
 **Remote Tech Jobs Curator** automatically scrapes **4 major remote job boards** every morning, classifies every listing into a **role category by its title**, and commits a clean markdown + JSON snapshot — so you can filter to exactly the kind of role you want.
 
-- ✅ **Zero manual effort** — GitHub Actions does everything
+- ✅ **Scheduled collection** — GitHub Actions runs the collector; source health still needs monitoring
 - ✅ **Filterable by role** — Engineering, AI/ML, Data, DevOps/Infra, Frontend, Backend, Full-Stack, Mobile, Security, QA/Testing, Product & Design
 - ✅ **Title-only classification** — no false positives from company "about us" boilerplate mentioning AI/tech buzzwords for unrelated roles
 - ✅ **Salary info** included where available
 - ✅ **Full archive** — track market trends over time
-- ✅ **Free forever** — no API keys, no subscriptions
+- ✅ **No API keys required** for the current source adapters
 - ✅ **Forkable** — customize for any role category in minutes
 
 ---
@@ -59,6 +59,8 @@ _🔄 Updated daily · [View all 248 jobs →](jobs/2026-10-28.md)_
 ---
 
 ## 📡 Sources
+
+Coverage is limited to the feeds below. Listings may expire or have geographic restrictions: confirm eligibility and compensation with the employer. Missing location information is labeled unknown, never inferred to mean worldwide. Historical snapshots predate this correction and may contain incorrectly broad location labels.
 
 | Job Board | Query strategy |
 |-----------|-------|
