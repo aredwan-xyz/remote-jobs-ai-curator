@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-10-30 -->
-**Latest listings: [Friday, 2026-10-30](jobs/2026-10-30.md)** - 235 remote tech jobs
+<!-- auto-updated: 2026-10-31 -->
+**Latest listings: [Saturday, 2026-10-31](jobs/2026-10-31.md)** - 226 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600) | Smile Digital Health | DevOps / Infra | RemoteOK |
 | [Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597) | Edconic | Frontend | RemoteOK |
 | [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Engineering | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571) | Klardaten | Engineering | RemoteOK |
@@ -51,9 +52,8 @@
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551) | DuckDuckGo | Backend | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Backend | RemoteOK |
-| [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | Askable | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 235 jobs →](jobs/2026-10-30.md)_
+_🔄 Updated daily · [View all 226 jobs →](jobs/2026-10-31.md)_
 <!-- LATEST-END -->
 
 ---
