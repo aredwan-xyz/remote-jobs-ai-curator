@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-01 -->
-**Latest listings: [Sunday, 2026-11-01](jobs/2026-11-01.md)** - 241 remote tech jobs
+<!-- auto-updated: 2026-11-02 -->
+**Latest listings: [Monday, 2026-11-02](jobs/2026-11-02.md)** - 224 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Backend | RemoteOK |
 
-_🔄 Updated daily · [View all 241 jobs →](jobs/2026-11-01.md)_
+_🔄 Updated daily · [View all 224 jobs →](jobs/2026-11-02.md)_
 <!-- LATEST-END -->
 
 ---
