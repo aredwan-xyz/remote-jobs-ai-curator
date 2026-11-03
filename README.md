@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-02 -->
-**Latest listings: [Monday, 2026-11-02](jobs/2026-11-02.md)** - 224 remote tech jobs
+<!-- auto-updated: 2026-11-03 -->
+**Latest listings: [Tuesday, 2026-11-03](jobs/2026-11-03.md)** - 227 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | AI / ML | RemoteOK |
+| [Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614) | Sodalis, Inc. | Engineering | RemoteOK |
 | [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600) | Smile Digital Health | DevOps / Infra | RemoteOK |
 | [Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597) | Edconic | Frontend | RemoteOK |
 | [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Engineering | RemoteOK |
@@ -50,10 +52,8 @@
 | [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562) | B2spin | Frontend | RemoteOK |
 | [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | DevOps / Infra | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551) | DuckDuckGo | Backend | RemoteOK |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
-| [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544) | Rain | Backend | RemoteOK |
 
-_🔄 Updated daily · [View all 224 jobs →](jobs/2026-11-02.md)_
+_🔄 Updated daily · [View all 227 jobs →](jobs/2026-11-03.md)_
 <!-- LATEST-END -->
 
 ---
