@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-03 -->
-**Latest listings: [Tuesday, 2026-11-03](jobs/2026-11-03.md)** - 227 remote tech jobs
+<!-- auto-updated: 2026-11-04 -->
+**Latest listings: [Wednesday, 2026-11-04](jobs/2026-11-04.md)** - 233 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -49,11 +49,11 @@
 | [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Engineering | RemoteOK |
 | [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571) | Klardaten | Engineering | RemoteOK |
 | [Solutions Engineer](https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568) | Onebrief | Engineering | RemoteOK |
-| [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562) | B2spin | Frontend | RemoteOK |
 | [Senior DevOps Engineer](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557) | Lemon.io | DevOps / Infra | RemoteOK |
 | [Senior Backend Engineer](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551) | DuckDuckGo | Backend | RemoteOK |
+| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545) | Sothebyâs | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 227 jobs →](jobs/2026-11-03.md)_
+_🔄 Updated daily · [View all 233 jobs →](jobs/2026-11-04.md)_
 <!-- LATEST-END -->
 
 ---
