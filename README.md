@@ -37,11 +37,14 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-06 -->
-**Latest listings: [Friday, 2026-11-06](jobs/2026-11-06.md)** - 236 remote tech jobs
+<!-- auto-updated: 2026-11-07 -->
+**Latest listings: [Saturday, 2026-11-07](jobs/2026-11-07.md)** - 231 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | AI / ML | RemoteOK |
+| [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
+| [ML Inference Engineer â Terminal-Bench Task Designer …](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | AI / ML | RemoteOK |
 | [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Frontend | RemoteOK |
 | [Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) | CivilGrid | Security | RemoteOK |
 | [AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) | iMerit | AI / ML | RemoteOK |
@@ -49,11 +52,8 @@
 | [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | AI / ML | RemoteOK |
 | [Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614) | Sodalis, Inc. | Engineering | RemoteOK |
 | [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600) | Smile Digital Health | DevOps / Infra | RemoteOK |
-| [Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597) | Edconic | Frontend | RemoteOK |
-| [Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572) | Wagmo | Engineering | RemoteOK |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571) | Klardaten | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 236 jobs →](jobs/2026-11-06.md)_
+_🔄 Updated daily · [View all 231 jobs →](jobs/2026-11-07.md)_
 <!-- LATEST-END -->
 
 ---
