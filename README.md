@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-07 -->
-**Latest listings: [Saturday, 2026-11-07](jobs/2026-11-07.md)** - 231 remote tech jobs
+<!-- auto-updated: 2026-11-08 -->
+**Latest listings: [Sunday, 2026-11-08](jobs/2026-11-08.md)** - 234 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) | Salvo Software | AI / ML | RemoteOK |
 | [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | AI / ML | RemoteOK |
 | [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
 | [ML Inference Engineer â Terminal-Bench Task Designer …](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | AI / ML | RemoteOK |
@@ -51,9 +52,8 @@
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) | Claims | Engineering | RemoteOK |
 | [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | AI / ML | RemoteOK |
 | [Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614) | Sodalis, Inc. | Engineering | RemoteOK |
-| [Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600) | Smile Digital Health | DevOps / Infra | RemoteOK |
 
-_🔄 Updated daily · [View all 231 jobs →](jobs/2026-11-07.md)_
+_🔄 Updated daily · [View all 234 jobs →](jobs/2026-11-08.md)_
 <!-- LATEST-END -->
 
 ---
