@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-08 -->
-**Latest listings: [Sunday, 2026-11-08](jobs/2026-11-08.md)** - 234 remote tech jobs
+<!-- auto-updated: 2026-11-09 -->
+**Latest listings: [Monday, 2026-11-09](jobs/2026-11-09.md)** - 239 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705) | Pencil | Product & Design | RemoteOK |
 | [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) | Salvo Software | AI / ML | RemoteOK |
 | [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | AI / ML | RemoteOK |
 | [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
@@ -51,9 +52,8 @@
 | [AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) | iMerit | AI / ML | RemoteOK |
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) | Claims | Engineering | RemoteOK |
 | [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | AI / ML | RemoteOK |
-| [Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614) | Sodalis, Inc. | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 234 jobs →](jobs/2026-11-08.md)_
+_🔄 Updated daily · [View all 239 jobs →](jobs/2026-11-09.md)_
 <!-- LATEST-END -->
 
 ---
