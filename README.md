@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-09 -->
-**Latest listings: [Monday, 2026-11-09](jobs/2026-11-09.md)** - 239 remote tech jobs
+<!-- auto-updated: 2026-11-10 -->
+**Latest listings: [Tuesday, 2026-11-10](jobs/2026-11-10.md)** - 230 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) | Claims | Engineering | RemoteOK |
 | [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 239 jobs →](jobs/2026-11-09.md)_
+_🔄 Updated daily · [View all 230 jobs →](jobs/2026-11-10.md)_
 <!-- LATEST-END -->
 
 ---
