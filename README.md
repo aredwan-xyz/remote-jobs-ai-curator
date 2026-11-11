@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-10 -->
-**Latest listings: [Tuesday, 2026-11-10](jobs/2026-11-10.md)** - 230 remote tech jobs
+<!-- auto-updated: 2026-11-11 -->
+**Latest listings: [Wednesday, 2026-11-11](jobs/2026-11-11.md)** - 239 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | DevOps / Infra | RemoteOK |
+| [Senior Agentic AI Engineer NDA](https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710) | GT | AI / ML | RemoteOK |
 | [Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705) | Pencil | Product & Design | RemoteOK |
 | [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) | Salvo Software | AI / ML | RemoteOK |
 | [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | AI / ML | RemoteOK |
@@ -50,10 +52,8 @@
 | [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Frontend | RemoteOK |
 | [Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) | CivilGrid | Security | RemoteOK |
 | [AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) | iMerit | AI / ML | RemoteOK |
-| [Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685) | Claims | Engineering | RemoteOK |
-| [AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619) | Docusketch | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 230 jobs →](jobs/2026-11-10.md)_
+_🔄 Updated daily · [View all 239 jobs →](jobs/2026-11-11.md)_
 <!-- LATEST-END -->
 
 ---
