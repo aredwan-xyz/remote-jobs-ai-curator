@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-11 -->
-**Latest listings: [Wednesday, 2026-11-11](jobs/2026-11-11.md)** - 239 remote tech jobs
+<!-- auto-updated: 2026-11-12 -->
+**Latest listings: [Thursday, 2026-11-12](jobs/2026-11-12.md)** - 233 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714) | Addepto | Data | RemoteOK |
 | [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | DevOps / Infra | RemoteOK |
 | [Senior Agentic AI Engineer NDA](https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710) | GT | AI / ML | RemoteOK |
 | [Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705) | Pencil | Product & Design | RemoteOK |
@@ -51,9 +52,8 @@
 | [ML Inference Engineer â Terminal-Bench Task Designer …](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | AI / ML | RemoteOK |
 | [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Frontend | RemoteOK |
 | [Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) | CivilGrid | Security | RemoteOK |
-| [AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686) | iMerit | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 239 jobs →](jobs/2026-11-11.md)_
+_🔄 Updated daily · [View all 233 jobs →](jobs/2026-11-12.md)_
 <!-- LATEST-END -->
 
 ---
