@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-12 -->
-**Latest listings: [Thursday, 2026-11-12](jobs/2026-11-12.md)** - 233 remote tech jobs
+<!-- auto-updated: 2026-11-13 -->
+**Latest listings: [Friday, 2026-11-13](jobs/2026-11-13.md)** - 234 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -53,7 +53,7 @@
 | [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Frontend | RemoteOK |
 | [Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) | CivilGrid | Security | RemoteOK |
 
-_🔄 Updated daily · [View all 233 jobs →](jobs/2026-11-12.md)_
+_🔄 Updated daily · [View all 234 jobs →](jobs/2026-11-13.md)_
 <!-- LATEST-END -->
 
 ---
