@@ -37,8 +37,8 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-14 -->
-**Latest listings: [Saturday, 2026-11-14](jobs/2026-11-14.md)** - 241 remote tech jobs
+<!-- auto-updated: 2026-11-15 -->
+**Latest listings: [Sunday, 2026-11-15](jobs/2026-11-15.md)** - 234 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
@@ -47,13 +47,13 @@
 | [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | DevOps / Infra | RemoteOK |
 | [Senior Agentic AI Engineer NDA](https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710) | GT | AI / ML | RemoteOK |
 | [Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705) | Pencil | Product & Design | RemoteOK |
-| [AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701) | Salvo Software | AI / ML | RemoteOK |
 | [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | AI / ML | RemoteOK |
 | [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
 | [ML Inference Engineer â Terminal-Bench Task Designer …](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | AI / ML | RemoteOK |
 | [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Frontend | RemoteOK |
+| [Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) | CivilGrid | Security | RemoteOK |
 
-_🔄 Updated daily · [View all 241 jobs →](jobs/2026-11-14.md)_
+_🔄 Updated daily · [View all 234 jobs →](jobs/2026-11-15.md)_
 <!-- LATEST-END -->
 
 ---
