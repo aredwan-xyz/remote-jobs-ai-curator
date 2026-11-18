@@ -37,11 +37,12 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-17 -->
-**Latest listings: [Tuesday, 2026-11-17](jobs/2026-11-17.md)** - 228 remote tech jobs
+<!-- auto-updated: 2026-11-18 -->
+**Latest listings: [Wednesday, 2026-11-18](jobs/2026-11-18.md)** - 231 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Expert Talent Pool Physical AI](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799) | Clera | AI / ML | RemoteOK |
 | [Software Engineer AI Tooling](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793) | Supabase | AI / ML | RemoteOK |
 | [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714) | Addepto | Data | RemoteOK |
 | [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | DevOps / Infra | RemoteOK |
@@ -51,9 +52,8 @@
 | [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
 | [ML Inference Engineer â Terminal-Bench Task Designer …](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | AI / ML | RemoteOK |
 | [Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688) | Lemon.io | Frontend | RemoteOK |
-| [Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687) | CivilGrid | Security | RemoteOK |
 
-_🔄 Updated daily · [View all 228 jobs →](jobs/2026-11-17.md)_
+_🔄 Updated daily · [View all 231 jobs →](jobs/2026-11-18.md)_
 <!-- LATEST-END -->
 
 ---
