@@ -4,12 +4,12 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Remote Tech Jobs — Every remote tech role, curated daily</title>
-<meta name="description" content="Every remote tech job on the internet — automatically tracked, curated & committed daily. Engineering, AI/ML, Data, DevOps, Design, Security & more, from 4 job boards, filterable by role." />
+<meta name="description" content="Remote tech listings from four job boards, collected daily and filterable by role. Check employer requirements for geographic eligibility." />
 <meta name="author" content="Abid Redwan" />
 <!-- Open Graph -->
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Remote Tech Jobs Curator" />
-<meta property="og:description" content="Every remote tech job on the internet — curated & updated daily. Filter by role: Engineering, AI/ML, Data, DevOps, Design, Security and more." />
+<meta property="og:description" content="Remote tech listings from four job boards, collected daily and filterable by role." />
 <meta property="og:url" content="https://aredwan-xyz.github.io/remote-jobs-ai-curator/" />
 <meta name="twitter:card" content="summary_large_image" />
 <link rel="canonical" href="https://aredwan-xyz.github.io/remote-jobs-ai-curator/" />
@@ -19,7 +19,7 @@
   "@type": "WebSite",
   "name": "Remote Tech Jobs Curator",
   "url": "https://aredwan-xyz.github.io/remote-jobs-ai-curator/",
-  "description": "Every remote tech job on the internet, automatically tracked, curated and committed daily, filterable by role category.",
+  "description": "Remote tech listings from four job boards, collected daily and filterable by role category.",
   "author": { "@type": "Person", "name": "Abid Redwan", "url": "https://aredwan.com" }
 }
 </script>
@@ -189,7 +189,7 @@
 
 <section class="hero wrap">
   <div class="pill"><span class="pulse"></span> <span id="hero-status">Auto-updated every morning · 7:00 AM UTC</span></div>
-  <h1>Every remote <em>tech role</em><br />on the internet.</h1>
+  <h1>Find remote <em>tech roles</em><br />across four job boards.</h1>
   <p class="sub">Engineering, AI/ML, Data, DevOps, Design, Security and more — automatically tracked, curated & committed daily from 4 job boards. Filter by the role you actually want.</p>
   <div class="hero-cta">
     <a class="btn btn-primary" href="#jobs">Explore listings ↓</a>
@@ -259,7 +259,7 @@
     }
     grid.innerHTML = list.map(j => {
       const salary = j.salary ? '<span class="badge salary">' + esc(j.salary) + '</span>' : '';
-      const loc = j.location && j.location !== 'Worldwide' ? esc(j.location) : 'Worldwide';
+      const loc = j.location ? esc(j.location) : 'Not specified — verify with employer';
       const newBadge = j.is_new ? '<span class="new-badge">NEW</span>' : '';
       return `<article class="job">
         <div class="job-top">
