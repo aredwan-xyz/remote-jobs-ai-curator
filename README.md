@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-19 -->
-**Latest listings: [Thursday, 2026-11-19](jobs/2026-11-19.md)** - 208 remote tech jobs
+<!-- auto-updated: 2026-11-20 -->
+**Latest listings: [Friday, 2026-11-20](jobs/2026-11-20.md)** - 234 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Front-End Engineer, UX/UI](https://remoteOK.com/remote-jobs/remote-front-end-engineer-ux-ui-beyondtrust-1137833) | BeyondTrust | Frontend | RemoteOK |
+| [Enterprise Solutions Engineer, East](https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826) | Glean | Engineering | RemoteOK |
+| [Senior Analytics Engineer](https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-tebra-1137809) | Tebra | Data | RemoteOK |
+| [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) | Askable | AI / ML | RemoteOK |
 | [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Full-Stack | RemoteOK |
 | [Expert Talent Pool Physical AI](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799) | Clera | AI / ML | RemoteOK |
 | [Software Engineer AI Tooling](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793) | Supabase | AI / ML | RemoteOK |
 | [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714) | Addepto | Data | RemoteOK |
 | [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | DevOps / Infra | RemoteOK |
 | [Senior Agentic AI Engineer NDA](https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710) | GT | AI / ML | RemoteOK |
-| [Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705) | Pencil | Product & Design | RemoteOK |
-| [Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691) | Silver.dev | AI / ML | RemoteOK |
-| [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
-| [ML Inference Engineer â Terminal-Bench Task Designer …](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689) | Toptal | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 208 jobs →](jobs/2026-11-19.md)_
+_🔄 Updated daily · [View all 234 jobs →](jobs/2026-11-20.md)_
 <!-- LATEST-END -->
 
 ---
