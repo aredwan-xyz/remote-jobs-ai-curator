@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-20 -->
-**Latest listings: [Friday, 2026-11-20](jobs/2026-11-20.md)** - 234 remote tech jobs
+<!-- auto-updated: 2026-11-21 -->
+**Latest listings: [Saturday, 2026-11-21](jobs/2026-11-21.md)** - 263 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
-| [Front-End Engineer, UX/UI](https://remoteOK.com/remote-jobs/remote-front-end-engineer-ux-ui-beyondtrust-1137833) | BeyondTrust | Frontend | RemoteOK |
-| [Enterprise Solutions Engineer, East](https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826) | Glean | Engineering | RemoteOK |
-| [Senior Analytics Engineer](https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-tebra-1137809) | Tebra | Data | RemoteOK |
-| [Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) | Askable | AI / ML | RemoteOK |
-| [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Full-Stack | RemoteOK |
-| [Expert Talent Pool Physical AI](https://remoteOK.com/remote-jobs/remote-expert-talent-pool-physical-ai-clera-1137799) | Clera | AI / ML | RemoteOK |
-| [Software Engineer AI Tooling](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793) | Supabase | AI / ML | RemoteOK |
-| [Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714) | Addepto | Data | RemoteOK |
-| [Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713) | Buoyant | DevOps / Infra | RemoteOK |
-| [Senior Agentic AI Engineer NDA](https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710) | GT | AI / ML | RemoteOK |
+| [Security Analyst - Governance, Risk, and Compliance](https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898) | LaunchDarkly | Security | RemoteOK |
+| [Staff Security Engineer - AppSec](https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897) | 6sense | Security | RemoteOK |
+| [Product Manager, Ecosystem Relevance](https://remoteOK.com/remote-jobs/remote-product-manager-ecosystem-relevance-reddit-1137894) | Reddit | Product & Design | RemoteOK |
+| [Product Manager, AI Foundations](https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893) | Reddit | AI / ML | RemoteOK |
+| [Sr. Product Manager](https://remoteOK.com/remote-jobs/remote-sr-product-manager-6sense-1137886) | 6sense | Product & Design | RemoteOK |
+| [Manager, Business Risk and AI Automation](https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879) | Reddit | AI / ML | RemoteOK |
+| [PreSales Solutions Engineer](https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877) | Sumo Logic | Engineering | RemoteOK |
+| [Product Designer](https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873) | Tebra | Product & Design | RemoteOK |
+| [Senior Software Developer - Canada](https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872) | Clover Health | Engineering | RemoteOK |
+| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871) | Clover Health | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 234 jobs →](jobs/2026-11-20.md)_
+_🔄 Updated daily · [View all 263 jobs →](jobs/2026-11-21.md)_
 <!-- LATEST-END -->
 
 ---
