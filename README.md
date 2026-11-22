@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-21 -->
-**Latest listings: [Saturday, 2026-11-21](jobs/2026-11-21.md)** - 263 remote tech jobs
+<!-- auto-updated: 2026-11-22 -->
+**Latest listings: [Sunday, 2026-11-22](jobs/2026-11-22.md)** - 275 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
-| [Security Analyst - Governance, Risk, and Compliance](https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898) | LaunchDarkly | Security | RemoteOK |
-| [Staff Security Engineer - AppSec](https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897) | 6sense | Security | RemoteOK |
-| [Product Manager, Ecosystem Relevance](https://remoteOK.com/remote-jobs/remote-product-manager-ecosystem-relevance-reddit-1137894) | Reddit | Product & Design | RemoteOK |
-| [Product Manager, AI Foundations](https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893) | Reddit | AI / ML | RemoteOK |
-| [Sr. Product Manager](https://remoteOK.com/remote-jobs/remote-sr-product-manager-6sense-1137886) | 6sense | Product & Design | RemoteOK |
-| [Manager, Business Risk and AI Automation](https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879) | Reddit | AI / ML | RemoteOK |
-| [PreSales Solutions Engineer](https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877) | Sumo Logic | Engineering | RemoteOK |
-| [Product Designer](https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873) | Tebra | Product & Design | RemoteOK |
-| [Senior Software Developer - Canada](https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872) | Clover Health | Engineering | RemoteOK |
-| [Senior Software Engineer](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871) | Clover Health | Engineering | RemoteOK |
+| [Staff Data Scientist - Martech Platform (ML/Algos)](https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956) | Airbnb | AI / ML | RemoteOK |
+| [Staff Software Engineer, Agentic Tools](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955) | Cribl | Engineering | RemoteOK |
+| [Senior Software Engineer, Partner Integrations](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954) | Airbnb | Engineering | RemoteOK |
+| [Senior Software Engineer - Behavioral Security Products](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948) | Abnormal | Engineering | RemoteOK |
+| [Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945) | Reddit | Engineering | RemoteOK |
+| [Senior Staff Machine Learning Engineer, Ads Ranking](https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932) | Reddit | AI / ML | RemoteOK |
+| [Staff Scientist, Machine Learning (Genomics)](https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926) | Natera | AI / ML | RemoteOK |
+| [Senior Software Engineer II - Agentic Intelligence](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924) | Honeycomb.io | Engineering | RemoteOK |
+| [Technical Solutions Engineer](https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922) | Stripe | Engineering | RemoteOK |
+| [Senior Pre-Sales Systems Engineer, Federal Civilian](https://remoteOK.com/remote-jobs/remote-senior-pre-sales-systems-engineer-federal-civilian-everpure-1137920) | Everpure | DevOps / Infra | RemoteOK |
 
-_🔄 Updated daily · [View all 263 jobs →](jobs/2026-11-21.md)_
+_🔄 Updated daily · [View all 275 jobs →](jobs/2026-11-22.md)_
 <!-- LATEST-END -->
 
 ---
