@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-22 -->
-**Latest listings: [Sunday, 2026-11-22](jobs/2026-11-22.md)** - 275 remote tech jobs
+<!-- auto-updated: 2026-11-23 -->
+**Latest listings: [Monday, 2026-11-23](jobs/2026-11-23.md)** - 283 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977) | Reddit | Product & Design | RemoteOK |
+| [Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975) | Reddit | DevOps / Infra | RemoteOK |
+| [Senior Staff SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974) | Reddit | DevOps / Infra | RemoteOK |
+| [Sr. Forward Deployed Data Engineer](https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970) | Natera | Data | RemoteOK |
 | [Staff Data Scientist - Martech Platform (ML/Algos)](https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956) | Airbnb | AI / ML | RemoteOK |
 | [Staff Software Engineer, Agentic Tools](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955) | Cribl | Engineering | RemoteOK |
 | [Senior Software Engineer, Partner Integrations](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954) | Airbnb | Engineering | RemoteOK |
 | [Senior Software Engineer - Behavioral Security Products](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948) | Abnormal | Engineering | RemoteOK |
 | [Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945) | Reddit | Engineering | RemoteOK |
 | [Senior Staff Machine Learning Engineer, Ads Ranking](https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932) | Reddit | AI / ML | RemoteOK |
-| [Staff Scientist, Machine Learning (Genomics)](https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926) | Natera | AI / ML | RemoteOK |
-| [Senior Software Engineer II - Agentic Intelligence](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924) | Honeycomb.io | Engineering | RemoteOK |
-| [Technical Solutions Engineer](https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922) | Stripe | Engineering | RemoteOK |
-| [Senior Pre-Sales Systems Engineer, Federal Civilian](https://remoteOK.com/remote-jobs/remote-senior-pre-sales-systems-engineer-federal-civilian-everpure-1137920) | Everpure | DevOps / Infra | RemoteOK |
 
-_🔄 Updated daily · [View all 275 jobs →](jobs/2026-11-22.md)_
+_🔄 Updated daily · [View all 283 jobs →](jobs/2026-11-23.md)_
 <!-- LATEST-END -->
 
 ---
