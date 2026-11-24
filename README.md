@@ -37,11 +37,14 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-23 -->
-**Latest listings: [Monday, 2026-11-23](jobs/2026-11-23.md)** - 283 remote tech jobs
+<!-- auto-updated: 2026-11-24 -->
+**Latest listings: [Tuesday, 2026-11-24](jobs/2026-11-24.md)** - 274 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Software Engineer, Agentic AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070) | Clover Health | AI / ML | RemoteOK |
+| [Senior Software Developer, Agentic AI - Canada](https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068) | Clover Health | AI / ML | RemoteOK |
+| [Staff Backend Engineer, Performance Enablement](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066) | GitLab | Backend | RemoteOK |
 | [Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977) | Reddit | Product & Design | RemoteOK |
 | [Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975) | Reddit | DevOps / Infra | RemoteOK |
 | [Senior Staff SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974) | Reddit | DevOps / Infra | RemoteOK |
@@ -49,11 +52,8 @@
 | [Staff Data Scientist - Martech Platform (ML/Algos)](https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956) | Airbnb | AI / ML | RemoteOK |
 | [Staff Software Engineer, Agentic Tools](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955) | Cribl | Engineering | RemoteOK |
 | [Senior Software Engineer, Partner Integrations](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954) | Airbnb | Engineering | RemoteOK |
-| [Senior Software Engineer - Behavioral Security Products](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948) | Abnormal | Engineering | RemoteOK |
-| [Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945) | Reddit | Engineering | RemoteOK |
-| [Senior Staff Machine Learning Engineer, Ads Ranking](https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932) | Reddit | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 283 jobs →](jobs/2026-11-23.md)_
+_🔄 Updated daily · [View all 274 jobs →](jobs/2026-11-24.md)_
 <!-- LATEST-END -->
 
 ---
