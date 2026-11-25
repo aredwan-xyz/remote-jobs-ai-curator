@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-24 -->
-**Latest listings: [Tuesday, 2026-11-24](jobs/2026-11-24.md)** - 274 remote tech jobs
+<!-- auto-updated: 2026-11-25 -->
+**Latest listings: [Wednesday, 2026-11-25](jobs/2026-11-25.md)** - 289 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Security Engineer, Offensive Security](https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096) | Dropbox | Security | RemoteOK |
+| [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095) | Ping Identity | Engineering | RemoteOK |
+| [Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093) | Reddit | AI / ML | RemoteOK |
+| [Staff Software Engineer, Control Plane](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092) | Cribl | Engineering | RemoteOK |
+| [Sr. Account Executive, AI & HPC](https://remoteOK.com/remote-jobs/remote-sr-account-executive-ai-hpc-everpure-1138086) | Everpure | AI / ML | RemoteOK |
+| [Senior CX Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075) | GitLab | DevOps / Infra | RemoteOK |
 | [Senior Software Engineer, Agentic AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070) | Clover Health | AI / ML | RemoteOK |
 | [Senior Software Developer, Agentic AI - Canada](https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068) | Clover Health | AI / ML | RemoteOK |
 | [Staff Backend Engineer, Performance Enablement](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066) | GitLab | Backend | RemoteOK |
 | [Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977) | Reddit | Product & Design | RemoteOK |
-| [Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975) | Reddit | DevOps / Infra | RemoteOK |
-| [Senior Staff SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974) | Reddit | DevOps / Infra | RemoteOK |
-| [Sr. Forward Deployed Data Engineer](https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970) | Natera | Data | RemoteOK |
-| [Staff Data Scientist - Martech Platform (ML/Algos)](https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956) | Airbnb | AI / ML | RemoteOK |
-| [Staff Software Engineer, Agentic Tools](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955) | Cribl | Engineering | RemoteOK |
-| [Senior Software Engineer, Partner Integrations](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954) | Airbnb | Engineering | RemoteOK |
 
-_🔄 Updated daily · [View all 274 jobs →](jobs/2026-11-24.md)_
+_🔄 Updated daily · [View all 289 jobs →](jobs/2026-11-25.md)_
 <!-- LATEST-END -->
 
 ---
