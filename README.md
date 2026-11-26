@@ -37,11 +37,13 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-25 -->
-**Latest listings: [Wednesday, 2026-11-25](jobs/2026-11-25.md)** - 289 remote tech jobs
+<!-- auto-updated: 2026-11-26 -->
+**Latest listings: [Thursday, 2026-11-26](jobs/2026-11-26.md)** - 291 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Regional Account Manager - Canada (Technical/Cybersecur…](https://remoteOK.com/remote-jobs/remote-regional-account-manager-canada-technical-cybersecurity-zimperium-1138136) | zimperium | Security | RemoteOK |
+| [Intermediate Security Engineer, Security Incident Respo…](https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104) | GitLab | Security | RemoteOK |
 | [Security Engineer, Offensive Security](https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096) | Dropbox | Security | RemoteOK |
 | [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095) | Ping Identity | Engineering | RemoteOK |
 | [Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093) | Reddit | AI / ML | RemoteOK |
@@ -50,10 +52,8 @@
 | [Senior CX Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075) | GitLab | DevOps / Infra | RemoteOK |
 | [Senior Software Engineer, Agentic AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070) | Clover Health | AI / ML | RemoteOK |
 | [Senior Software Developer, Agentic AI - Canada](https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068) | Clover Health | AI / ML | RemoteOK |
-| [Staff Backend Engineer, Performance Enablement](https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-performance-enablement-gitlab-1138066) | GitLab | Backend | RemoteOK |
-| [Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977) | Reddit | Product & Design | RemoteOK |
 
-_🔄 Updated daily · [View all 289 jobs →](jobs/2026-11-25.md)_
+_🔄 Updated daily · [View all 291 jobs →](jobs/2026-11-26.md)_
 <!-- LATEST-END -->
 
 ---
