@@ -37,23 +37,23 @@
 ## 🔴 Latest Listings
 
 <!-- LATEST-START -->
-<!-- auto-updated: 2026-11-26 -->
-**Latest listings: [Thursday, 2026-11-26](jobs/2026-11-26.md)** - 291 remote tech jobs
+<!-- auto-updated: 2026-11-27 -->
+**Latest listings: [Friday, 2026-11-27](jobs/2026-11-27.md)** - 301 remote tech jobs
 
 | Role | Company | Category | Source |
 |------|---------|----------|--------|
+| [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-lastpass-1138187) | LastPass | Frontend | RemoteOK |
+| [Senior iOS Engineer, Foundations](https://remoteOK.com/remote-jobs/remote-senior-ios-engineer-foundations-raya-1138180) | Raya | Mobile | RemoteOK |
+| [Android Developer](https://remoteOK.com/remote-jobs/remote-android-developer-airalo-1138176) | Airalo | Mobile | RemoteOK |
 | [Regional Account Manager - Canada (Technical/Cybersecur…](https://remoteOK.com/remote-jobs/remote-regional-account-manager-canada-technical-cybersecurity-zimperium-1138136) | zimperium | Security | RemoteOK |
 | [Intermediate Security Engineer, Security Incident Respo…](https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104) | GitLab | Security | RemoteOK |
 | [Security Engineer, Offensive Security](https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096) | Dropbox | Security | RemoteOK |
 | [Principal Software Engineer](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095) | Ping Identity | Engineering | RemoteOK |
 | [Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093) | Reddit | AI / ML | RemoteOK |
 | [Staff Software Engineer, Control Plane](https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092) | Cribl | Engineering | RemoteOK |
-| [Sr. Account Executive, AI & HPC](https://remoteOK.com/remote-jobs/remote-sr-account-executive-ai-hpc-everpure-1138086) | Everpure | AI / ML | RemoteOK |
-| [Senior CX Platform Engineer](https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075) | GitLab | DevOps / Infra | RemoteOK |
-| [Senior Software Engineer, Agentic AI](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070) | Clover Health | AI / ML | RemoteOK |
-| [Senior Software Developer, Agentic AI - Canada](https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068) | Clover Health | AI / ML | RemoteOK |
+| [Operations Expert with Python for AI Supply Chain Task …](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690) | Toptal | AI / ML | RemoteOK |
 
-_🔄 Updated daily · [View all 291 jobs →](jobs/2026-11-26.md)_
+_🔄 Updated daily · [View all 301 jobs →](jobs/2026-11-27.md)_
 <!-- LATEST-END -->
 
 ---
