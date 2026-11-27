@@ -151,7 +151,7 @@ def fetch_remoteok():
                 seen.add(jid)
                 title    = clean(job.get("position", ""))
                 company  = clean(job.get("company", ""))
-                location = clean(job.get("location", "Worldwide"))
+                location = clean(job.get("location", ""))
                 link     = job.get("url", f"https://remoteok.com/l/{jid}")
                 salary   = job.get("salary_min") or job.get("salary_max")
                 salary_str = f"${salary:,}+" if salary else ""
@@ -160,7 +160,7 @@ def fetch_remoteok():
                 if title and company and role:
                     jobs.append({
                         "title": title, "company": company,
-                        "location": location or "Worldwide",
+                        "location": location or "Not specified — verify with employer",
                         "link": link, "salary": salary_str,
                         "tags": tags_str, "source": "RemoteOK", "role": role,
                     })
@@ -192,7 +192,7 @@ def fetch_remotive():
                 if role and title and company:
                     jobs.append({
                         "title": title, "company": company,
-                        "location": "Worldwide",
+                        "location": clean(job.get("candidate_required_location", "")) or "Not specified — verify with employer",
                         "link": link, "salary": salary,
                         "tags": tags, "source": "Remotive", "role": role,
                     })
@@ -222,12 +222,12 @@ def fetch_wwr():
                 company   = parts[0].strip() if len(parts) > 1 else "Unknown"
                 title     = parts[1].strip() if len(parts) > 1 else title_raw
                 link      = item.findtext("link", "")
-                region    = clean(item.findtext("{https://weworkremotely.com}region", "Worldwide"))
+                region    = clean(item.findtext("{https://weworkremotely.com}region", ""))
                 role = classify_role(title)
                 if role:
                     jobs.append({
                         "title": title, "company": company,
-                        "location": region or "Worldwide",
+                        "location": region or "Not specified — verify with employer",
                         "link": link, "salary": "",
                         "tags": "", "source": "WeWorkRemotely", "role": role,
                     })
@@ -246,7 +246,7 @@ def fetch_jobicy():
             title    = clean(job.get("jobTitle", ""))
             company  = clean(job.get("companyName", ""))
             link     = job.get("url", "")
-            geo      = clean(job.get("jobGeo", "Worldwide"))
+            geo      = clean(job.get("jobGeo", ""))
             smin     = job.get("annualSalaryMin")
             salary   = f"${int(smin):,}+" if smin else ""
             industry = clean(", ".join(job.get("jobIndustry", []) or []))
@@ -254,7 +254,7 @@ def fetch_jobicy():
             if role and title and company:
                 jobs.append({
                     "title": title, "company": company,
-                    "location": geo or "Worldwide",
+                        "location": geo or "Not specified — verify with employer",
                     "link": link, "salary": salary,
                     "tags": industry[:30], "source": "Jobicy", "role": role,
                 })
@@ -395,6 +395,8 @@ def main():
 
     jobs = [j for lst in raw.values() for j in lst]
     jobs = dedup(jobs)
+    if not jobs:
+        raise RuntimeError("No eligible listings returned; preserving the last published snapshot")
     print(f"  ✓ {len(jobs)} unique remote tech jobs found")
 
     # flag listings not present in the previous snapshot
@@ -447,7 +449,7 @@ def main():
             title    = (j["title"][:60] + "…") if len(j["title"]) > 60 else j["title"]
             flag     = "🆕 " if j.get("is_new") else ""
             company  = j["company"][:35]
-            location = j["location"][:25]
+            location = j["location"]
             salary   = j["salary"] or "-"
             lines.append(f"| {flag}[{title}]({j['link']}) | {company} | {location} | {salary} | {j['source']} |")
         lines.append("")

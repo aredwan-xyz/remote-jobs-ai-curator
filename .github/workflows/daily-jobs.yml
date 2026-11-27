@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: daily-jobs
+  cancel-in-progress: false
+
 jobs:
   fetch-jobs:
     runs-on: ubuntu-latest
@@ -22,6 +26,7 @@ jobs:
           python-version: '3.11'
 
       - name: Fetch remote tech jobs
+        timeout-minutes: 20
         run: python fetch_jobs.py
 
       - name: Commit and push
